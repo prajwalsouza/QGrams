@@ -1,4 +1,4 @@
-<episode>The One Where Monica Gets a New Roomate (The Pilot-The Uncut Version)
+<episode>0101 : The One Where Monica Gets a New Roommate (The Pilot-The Uncut Version)
 monica: There's nothing to tell! He's just some guy I work with!
 joey: C'mon, you're going out with the guy! There's gotta be something wrong with him!
 chandler: All right Joey, be nice.  So does he have a hump? A hump and a hairpiece?
@@ -295,7 +295,7 @@ all: Yeah. Yeah, I'll have a cup of coffee.
 chandler: Kids, new dream... I'm in Las Vegas.
 customer: Ahh, miss?   More coffee?
 rachel: Ugh.   Thank you.   Sorry.  Okay, Las Vegas.
-<episode>The One With The Sonogram at the End
+<episode>0102 : The One With the Sonogram at the End
 monica: What you guys don't understand is, for us, kissing is as important as any part of it.
 joey: Yeah, right!.......Y'serious?
 phoebe: Oh, yeah!
@@ -520,7 +520,7 @@ ross: You are, you're welling up.
 monica: Am not!
 ross: You're gonna be an aunt.
 monica: Oh shut up!
-<episode>The One With The Thumb
+<episode>0103 : The One With the Thumb
 phoebe: Hi guys!
 all: Hey, Pheebs! Hi!
 ross: Hey. Oh, oh, how'd it go?
@@ -777,7 +777,7 @@ chandler: ...That's it. I'm getting cigarettes.
 all: No no no!
 chandler: I don't care, I don't care! Game's over! I'm weak! I've gotta smoke! I've gotta have the smoke!
 phoebe: If you never smoke again I'll give you seven thousand dollars!
-<episode>The One With George Stephanopoulos
+<episode>0104 : The One With George Stephanopoulos
 monica: Alright. Phoebe?
 phoebe: Okay, okay. If I were omnipotent for a day, I would want, um, world peace, no more hunger, good things for the rain-forest...And bigger boobs!
 ross: Yeah, see.. you took mine. Chandler, what about you?
@@ -1021,7 +1021,7 @@ rachel: Nooo!   Oh, yeah, no, I know, I-I haven't been using it much.   Oh, well
 ross: Green. To the green.
 rachel: I've got magic beans.   Never-never mind.
 chandler: To the left, to the left- aww!
-<episode>The One With the East German Laundry Detergent
+<episode>0105 : The One With the East German Laundry Detergent
 monica: Would you let it go? It's not that big a deal.
 ross: Not that big a deal? It's amazing. Ok, you just reach in there, there's one little maneuver, and bam, a bra right out the sleeve. All right, as far as I'm concerned, there is nothing a guy can do that even comes close. Am I right?
 rachel: Come on! You guys can pee standing up.
@@ -1260,7 +1260,7 @@ rachel: Where's Chandler?
 phoebe: Oh, he needed some time to grieve.
 chandler: I'm free! I'm free!
 phoebe: That oughta do it. End
-<episode>The One With The Butt
+<episode>0106 : The One With the Butt
 rachel: Ooh! Look! Look! Look! Look, there's Joey's picture! This is so exciting!
 chandler: You can always spot someone who's never seen one of his plays before. Notice, no fear, no sense of impending doom...
 phoebe: The exclamation point in the title scares me.   Y'know, it's not just Freud, it's Freud!
@@ -1479,7 +1479,7 @@ monica: Uh-huh!
 rachel: Really? Just casually strewn about in that reckless haphazard manner?
 monica: Doesn't matter, I'll get 'em tomorrow. Or not. Whenever.
 ross: She is a kook. Closing Credits
-<episode>The One With the Blackout
+<episode>0107 : The One With the Blackout
 rachel: Everybody? Shh, shhh. Uhhh... Central Perk is proud to present the music of Miss Phoebe Buffay.
 phoebe: Hi. Um, I want to start with a song thats about that moment when you suddenly realize what life is all about. OK, here we go.   OK, thank you very much.
 chandler: Oh, great. This is just...   Opening Credits
@@ -1705,7 +1705,7 @@ jill: Well, this has been fun.
 chandler: Yes. Yes, thanks for letting me use your phone... and for saving my life.
 jill: Well, goodbye Chandler. I had a great blackout.   See ya.
 chandler: Hi, um, I'm account number 7143457. And, uh, I don't know if you got any of that, but I would really like a copy of the tape.
-<episode>The One Where Nana Dies Twice
+<episode>0108 : The One Where Nana Dies Twice
 shelley: Hey gorgeous, how's it going?
 chandler: Dehydrated Japanese noodles under fluorescent lights... does it get better than this?
 shelley: Question. You're not dating anybody, are you, because I met somebody who would be perfect for you.
@@ -1895,7 +1895,7 @@ chandler: So you don't think I have a, a quality?
 lowell: Speaking for my people, I'd have to say no. By the way, your friend Brian from Payroll, he is.
 chandler: He is?
 lowell: Yup, and waaay out of your league.
-<episode>The One Where Underdog Gets Away
+<episode>0109 : The One Where Underdog Gets Away
 rachel: Terry, I, I, I know that I haven't worked here very long, but I was wondering, do you think it would be possible if I got a $100 advance in my salary?
 terry: An advance?
 rachel: It's so that I can spend Thanksgiving with my family. See, every year we go skiing in Vail, and normally my father pays for my ticket, but I sort of started the whole independence thing, you know, which is actually why I took this job.
@@ -2123,7 +2123,7 @@ all: That's so sweet.
 ross: And hey, here's to a lousy Christmas.
 rachel: And a crappy New Year.
 chandler: Here, here! Closing Credits [Scene: The Subway, Joey sees his poster and he peels off the caption on his poster, revealing more posters underneath. The captions read, as follows:
-<episode>The One With The Monkey
+<episode>0110 : The One With the Monkey
 ross: Guys? There's a somebody I'd like you to meet.
 all: Oooh!
 monica: W-wait. What is that?
@@ -2348,7 +2348,7 @@ ross: Perfect. Perfect. So now everybody's getting kissed but me.
 chandler: Alright, somebody kiss me. Somebody kiss me, it's midnight! Somebody kiss me!
 joey: Alrightalrightalright.   There. Closing Credits
 ross: I wanted this to work so much. I mean I'm still in there, changing his diapers, pickin' his fleas... but he's just phoning it in. Just so hard to accept the fact that something you love so much doesn't love you back.
-<episode>The One With Mrs. Bing
+<episode>0111 : The One With Mrs. Bing
 phoebe: Do you think they have yesterday's daily news?
 monica: Why?
 phoebe: Just wanna check my horoscope, see if it was right.
@@ -2591,7 +2591,7 @@ joey: You usually find them on the 'heaving beasts'.
 rachel: Alright, alright, so I'm not a great typist...
 ross: Wait, did you get to the part about his 'huge throbbing pens'? Tell ya, you don't wanna be around when he starts writing with those!
 rachel: Alright, that's it! Give it back! That's it!
-<episode>The One With the Dozen Lasagnas
+<episode>0112 : The One With the Dozen Lasagnas
 chandler: No-no-no-no, we're done. Opening Credits
 monica: Aunt Syl, stop yelling! All I'm saying is that if you had told me vegetarian lasagna, I would have made vegetarian lasagna.   Well, the meat's only every third layer, maybe you could scrape.
 joey: Ross, did you really read all these baby books?
@@ -2836,7 +2836,7 @@ joey: Uh, it's 2:30 in the morning!
 chandler: Yeah, get out!
 monica: You guys are always hanging out in my apartment! Come on, I'll only use my left hand, huh? Come on, wussies!   All right, ok, I gotta go. I'm going,   and I'm gone.
 chandler: One more game?
-<episode>The One With the Boobies
+<episode>0113 : The One With the Boobies
 rachel: That is it! You just barge in here, you don't knock
 chandler: I'm sorry!
 rachel: You have no respect for anybody's privacy!
@@ -3048,7 +3048,7 @@ phoebe: Hey, Joey. What's going on?
 joey: Clear the tracks for the boobie payback express. Next stop: Rachel Green.
 monica: Joey!! What the hell were you doing?!
 joey: Sorry. Wrong boobies.
-<episode>The One With the Candy Hearts
+<episode>0114 : The One With the Candy Hearts
 joey: I'm tellin' you Ross, she wants you.
 ross: She barely knows me. We just live in the same building.
 chandler: Any contact?
@@ -3227,7 +3227,7 @@ rachel: Oh, my god.
 phoebe: See, there you go, the cleansing works!
 monica: They're nice guys.
 rachel: Oh, they're firemen guys.   Fireman No. 1: You guys tell them you were married? Fireman No. 2: No way! Fireman No. 3: Are you kidding? My girlfriend doesn't know, I'm not gonna tell them!
-<episode>The One With the Stoned Guy
+<episode>0115 : The One With the Stoned Guy
 rachel: Coffee.
 joey: Thank you.
 rachel: Cappuccino.
@@ -3470,7 +3470,7 @@ phoebe: See, that just means it's working. Does this hurt?
 steve: No.
 phoebe: What about this?
 steve: Aaaaahhh!!
-<episode>The One With Two Parts, part 1
+<episode>0116 : The One With Two Parts, part 1
 chandler: This is unbelievable. It’s been like a half an hour. If this was a cartoon, you’d be looking like a ham right about now.
 joey: There’s the waitress. Excuse me, Miss. Hello, Miss?
 chandler: It’s Phoebe! Hi!
@@ -3741,7 +3741,7 @@ monica: Rachel, what are you doing? It’s freezing out here. Would you come back 
 rachel: No no no no no. You wanted me to take them down, so...
 monica: Oh-my-god Rachel!   Rachel!
 rachel: I’m okay! I’m okay!   Mr. Heckles, Mr. Heckles could you help me please?
-<episode>The One With Two Parts, Part 2
+<episode>0117 : The One With Two Parts, Part 2
 rachel: Ow ow ow. Ow ow ow ow. Ow ow ow. Ow. Ow. Ow. Ow.
 monica: Hi. Uh, my friend here was taking down our Christmas lights, and and she fell off the balcony and may have broken her foot or or ankle or something.
 nurse: My god. You still have your Christmas lights up?
@@ -3982,7 +3982,7 @@ all: ¡Hola, Joey!
 joey: ¡Hola, amigos!
 monica: Mira, Ross, Marcel se llevo el control remoto.
 ross: ¡Lo que sucedio es que no le gusta la tele!     End
-<episode>The One With All The Poker
+<episode>0118 : The One With All The Poker
 ross: Uh, Rach, we're running low on resumes over here.
 monica: Do you really want a job with Popular Mechanics?
 chandler: Well, if you're gonna work for mechanics, those are the ones to work for.
@@ -4251,7 +4251,7 @@ ross: Uh.... bean! Bean!
 joey: The Unbearable Likeness of Being!
 rachel: Yes!
 monica: That, you get? That, you get?
-<episode>The One Where the Monkey Gets Away
+<episode>0119 : The One Where the Monkey Gets Away
 note: The credits list two characters, Tia and Samantha, who I assume are the sweaty women Joey and Chandler meet. However, I don't know which is which, so I've simply called them Woman #1 and Woman #2.}
 rachel: Okay, okay, I checked. We have: Earl Grey, English Breakfast, Cinnamon Stick, Camomile, Mint Medley, Blackberry, and.. oh, wait, there's one more, um.. Lemon Soother. You're not the guy that asked for the tea, are you?   Okay. Opening Credits
 monica: Mail call, Rachel Green, bunk seven.
@@ -4476,7 +4476,7 @@ monica: Well, high school was not my favourite time.
 joey: I dunno, I loved high school. Y'know? It was just four years of parties and dating and sex.
 chandler: Yeah, well I went to boarding school with four hundred boys. Any sex I had would've involved a major lifestyle choice.
 monica: Gosh, doesn't it seem like a million years ago?
-<episode>The One With the Evil Orthodontist
+<episode>0120 : The One With the Evil Orthodontist
 chandler: I can't believe you would actually say that. I would much rather be Mr.Peanut than Mr.Salty.
 joey: No way! Mr.Salty is a sailor, all right, he's got to be, like, thetoughest snack there is.
 ross: I don't know, you don't wanna mess with corn nuts. They're craaazy.
@@ -4719,7 +4719,7 @@ monica: Yeah, there you go!
 ross: Second date!
 chandler: ...I dunno.
 rachel: You don't know?!
-<episode>The One With The Fake Monica
+<episode>0121 : The One With The Fake Monica
 joey: How could someone get a hold of your credit card number?
 monica: I have no idea. But look how much they spent!
 rachel: Monica, would you calm down? The credit card people said that you only have to pay for the stuff that you bought.
@@ -4899,7 +4899,7 @@ all: Oh, sure. Sure, absolutely.
 ross: Marcel, c'mere, c'mere.   Closing Credits
 actor: Oh, that I were a glove upon that hand, that I might... touch thy cheek... Casting Director No. 1: That's fine, thank you. Casting Director No. 2: Next.
 joey: Hi, uh, I'll be reading for the role of Mercutio. Casting Director No. 2: Name?
-<episode>The One With The Ick Factor
+<episode>0122 : The One With the Ick Factor
 monica: Tell him.
 rachel: No.
 phoebe: Tell him, tell him.
@@ -5145,7 +5145,7 @@ monica: I can't belive it, I'm gonna be an aunt. I'm gonna have like a nephew.
 ross: That's nice. Get out Let's go, come on.
 joey: All right, I'm going. I'm going.
 chandler: Here we go, here we go.
-<episode>The One With the Birth
+<episode>0123 : The One With the Birth
 ross: She's not here yet. She's not here. She's having my baby and she's not here.
 monica: I'm sure everything's fine. Has her water broke yet?
 ross: I don't know, but when I spoke to her, she said she had already passed the mucus plug.
@@ -5397,7 +5397,7 @@ rachel: You guys wanna get some coffee?
 all: Yeah.
 ross: All right, I'll see you guys later.
 phoebe: Oh, look, he's closing his eyes again.   End
-<episode>The One Where Rachel Finds Out
+<episode>0124 : The One Where Rachel Finds Out
 ross: And here's little Ben nodding off...
 monica: Awww, look at Aunt Monica's little boy!
 phoebe: Oh, look, he's got Ross's haircut!
@@ -5644,7 +5644,7 @@ julie: Really?
 ross: Yeah.
 julie: You don't think they'll judge and ridicule me?
 ross: No, no, they will. I just... uh... Ross and Julie: Can't wait.
-<episode>The One With Ross' New Girlfriend
+<episode>0201 : The One With Ross' New Girlfriend
 phoebe: Ok, so this is pretty much what's happened so far. Ross was in love with Rachel since, you know, forever, but every time he tried to tell her, something kind of got in the way, like cats, and Italian guys. Finally Chandler was like "forget about her" but when Ross was in China on his dig, Chandler let it slip that Ross was in love with Rachel. She was like, "Oh my god." So she went to the airport to meet him when he came back, but what she didn't know was, that Ross was getting off the plane with another woman. Uh-Oh! So, that's pretty much everything you need to know. But, enough about us. So, how've you been? Opening Credits
 rachel: Oh my god. Oh my god.   Excuse me. Move! Move! Emergency! Excuse me!
 ross: Rach!
@@ -5863,7 +5863,7 @@ phoebe: Ok, I just wanna be really sure this time. Andie McDowell's the girl fro
 rachel: No. No no no no no. That's Rodney McDowell. Andie McDowell is the guy from Planet of the Apes.
 phoebe: Oh, yeah. Ok, thank you.
 rachel: You're welcome.
-<episode>The One With the Breast Milk
+<episode>0202 : The One With the Breast Milk
 monica: Ok, these were unbelievably expensive, and I know he's gonna grow out of them in like, 20 minutes, but I couldn't resist.
 phoebe: Oh, look at these! Hey, Ben. Just do it.   Oh my God, oh, ok, was that too much pressure for him?
 susan: Oh, is he hungry already?
@@ -6055,7 +6055,7 @@ rachel: All right, Julie.
 julie: Bye.
 rachel: Bye.   What a manipulative bitch. Closing Credits
 ross: That's not bad.  End
-<episode>The One Where Mr. Heckles Dies
+<episode>0203 : The One Where Mr. Heckles Dies
 chandler: Hey.
 monica: So how was Joan?
 chandler: I broke up with her.
@@ -6243,7 +6243,7 @@ ross: You comin'?
 chandler: Yeah, jus' second. Good-bye Mr. Heckles. We'll try to keep it down.
 alison: Oh, my major was totally useless. I mean, how often do you look in the classifieds and see "Philosopher wanted"?
 chandler: Sure.
-<episode>The One With Phoebe's Husband
+<episode>0204 : The One With Phoebe's Husband
 rachel: Mom, would you relax. That was 10 blocks from here and, the, the woman was walking alone at night, I would never do that. Mom, c'mon, stop worrying. This is a safe street, this is a safe building, there's nothing   OH MY GOOOD, oh my God, oh I gotta go, I gotta go, I gotta go.   OK, that's fine, you just read the paper, I'm gonna get a pot, it's not for you.   OK, that's fine, read the Family Circus, enjoy the gentle comedy.   Aaahh, oh my God, oh my God, oh my God, oh my God, oh my God, oh my God, oh my God, oh my God, aaaaahh.   It's open you guys.
 stranger: Hi.
 rachel: Hi, hi can I help you?
@@ -6458,7 +6458,7 @@ rachel: Ohh, God.
 ross: Good morning.
 woman: Well, somebody got some last night.
 ross: Twice. END
-<episode>The One With Five Steaks and an Eggplant
+<episode>0205 : The One With Five Steaks and an Eggplant
 ross: Man, I sure miss Julie.
 chandler: Spanish midgets. Spanish midgets wrestling. Julie. Ok, yes, I see how you got there.
 ross: You ever figure out what that thing's for?
@@ -6737,7 +6737,7 @@ waitress: Here's your check. That'll be $4.12.
 joey: Let me get that.   You got five bucks?
 machine: Here comes the beep, you know what to do.
 jade: Hi, it's me. Listen, Bob. I'm probably way out of line here. I mean, It has been 3 years, and you're probably seeing someone else now, but if we could just have one night together, just for old time's sake, one hot, steamy, wild night...
-<episode>The One With the Baby on the Bus
+<episode>0206 : The One With the Baby on the Bus
 monica: Who da wenny-Benny boy? You the Wenny-wenny-Benny-Benny boy, yes. Don't cry. Don't cry. Why is he still crying?
 ross: Let me hold him for a sec. There.   Huh? There we are.
 monica: Maye it's me.
@@ -6959,7 +6959,7 @@ stephanie: Ok.
 phoebe: Mmmm hmmm.
 together: Smelly Cat, Smelly Cat, what are they feeding you? Smelly Cat, Smelly Cat, it's not your fault.
 phoebe: That's too much. Sorry. END
-<episode>The One Where Ross Finds Out
+<episode>0207 : The One Where Ross Finds Out
 chandler: OK, what is it about me? Do I not look fun enough? Is there something. . . repellant. . . about me?
 rachel: So, how was the party?
 chandler: Well it couldn't have been worse. A woman literally passed through me. OK, so what is it, am I hideously unattractive?
@@ -7169,7 +7169,7 @@ monica: Alright.
 chandler: Because, you know, you don't have to. If you want, you could just take a nap right here.
 monica: OK. Just for a little while.
 chandler: OK.   END
-<episode>The One With the Last
+<episode>0208 : The One With the List
 rachel: Ross kissed me.
 monica: Oh my god, oh my god, oh my god!
 rachel: It was unbelievable!
@@ -7380,7 +7380,7 @@ monica: Oh, not at all. I have no morals and I need the cash.
 rtst: It's like I'm lookin' in a mirror. Anyway, they're called "fishtachios". They taste exactly like pistachios, but they're made primarily of reconstituted fish bits. Here, try one. You're not allergic to anything, are you?
 monica: Cat hair.
 rtst: Oh, sorry.
-<episode>The One With Phoebe's Dad
+<episode>0209 : The One With Phoebe's Dad
 phoebe: Ooh, ooh, ooh, ooh, ooh. Ugly Naked Guy is decorating his tree. Oh my God, you should see the size of his Christmas Balls.
 joey: Hey.
 chandler: Hey.
@@ -7623,7 +7623,7 @@ chandler: And, a lemon lime.
 ross: Well this, this is too much, I feel like I should get you another sweater.
 chandler: And last but not least.
 joey: They're ribbed for your pleasure.
-<episode>The One With Russ
+<episode>0210 : The One With Russ
 rachel: Joey, would you slow down? They're not gonna be sold out of papers at one o'clock in the morning.
 joey: I'm excited! I've never gotten reviewed before.
 monica: You were so amazing as the king. I was really impressed, I was.
@@ -7920,7 +7920,7 @@ julie: Hey.
 chandler: Hey!
 phoebe: Hey, Julie! Hey, how are you doing?
 julie: Um, oh, I don't know. I mean, it's definitely weird not being with Ross, but I guess I'm doing OK. Actually I've got some of his stuff that he, um....   END
-<episode>The One With the Lesbian Wedding
+<episode>0211 : The One With the Lesbian Wedding
 ross: Ok. Here's his diaper bag, and his uh, Mr. Winky, and uh...oh, him. Hi!
 carol: So how did everything go?
 ross: Oh, great. Great. There was a projectile, uh, throwing up incident, but he started it.
@@ -8122,7 +8122,7 @@ monica: All right, just trying to start an interesting discussion.
 joey: I got one. Which one of us do you think will be the last to get married?
 chandler: Isn't Ben in this?
 all: Oh, yeah!
-<episode>The One After the Superbowl
+<episode>0213 : The One After the Superbowl
 voiceover: Can't get the monkey off your back? Then put it in your mouth...
 voiceover: ...With MonkeyShine Beer.   MonkeyShine Beer, 'cause it's a jungle out there.]
 ross: That commercial always makes me so sad.
@@ -8591,7 +8591,7 @@ damme: Can't you see what's going on here, this man is dying.
 joey: Aaaaagggghhhhh. Mommy
 director: Cut.
 damme: Can't you see what's going on here, this man is dead. END
-<episode>The One With the Prom Video
+<episode>0214 : The One With the Prom Video
 note: For this episode, I'm using italics to signify portions contained in the prom video.
 joey: Hey.
 chandler: Hey. Hold on a second.   Huh?
@@ -8845,7 +8845,7 @@ monica: Alright.
 geller: Oh, Jack.
 geller: Oh, Judy. Oh, Judy.
 both: Oh, ohhhhh.
-<episode>The One Where Ross and Rachel...You Know
+<episode>0215 : The One Where Rachel and Ross... You Know
 joey: Alright, no peeking. No peeking, no peeking, no peeking.
 chandler: Alright, alright, but you better be wearing clothes when I open my eyes.
 joey: Alright open your eyes.
@@ -9092,7 +9092,7 @@ ross: We're not alone.
 joey: Is that the fire alarm?
 chandler: Yeah.   Oh it's not warm yet, we still have time.
 joey: Cool.  END
-<episode>The One Where Joey Moves Out
+<episode>0216 : The One Where Joey Moves Out
 joey: Man this is weird. You ever realize Captain Crunch's eyebrows are actually on his hat?
 chandler: That's what's weird? Joey, the man's been captain of a cereal for the last 40 years.
 chandler: Waaa-aaah.
@@ -9365,7 +9365,7 @@ joey: Listen, uh, I don't know when I'm gonna see you again.
 chandler: Well, I'm guessing uh, tonight at the coffee house.
 joey: Right, yeah. OK. Um, take care.
 chandler: Yeah.
-<episode>The One Where Eddie Moves In
+<episode>0217 : The One Where Eddie Moves In
 joey: Huh? So whaddya think? Casa de Joey. Huh? I decorated it myself.
 ross: Get out.
 all: No.
@@ -9601,7 +9601,7 @@ joey: It may not be a bed of roses.
 phoebe: Rachel.
 rachel: And you're no friend to those with noses.
 phoebe: Uh, Ross, those are the only lines we have, sorry. OK, you guys, once more. END
-<episode>The One Where Dr. Remore Dies
+<episode>0218 : The One Where Dr. Remore Dies
 amber: Oh Drake.
 remore: I'm sorry Amber. It's just like Brad to have to have the last word.
 ross: I'm sorry I'm late, what happened?
@@ -9849,7 +9849,7 @@ richard: Ohh, brisk tonight.
 ross: Oh man.
 richard: Let's never speak of this.
 ross: You got it.  END
-<episode>The One Where Eddie Won't Go
+<episode>0219 : The One Where Eddie Won't Go
 chandler: Hey Eddie. Daahh!! What're you doin' here?
 eddie: Nothin' roomie, just watchin' you sleep.
 chandler: Why?
@@ -10115,7 +10115,7 @@ joey: He paid a lot of money for it.
 chandler: I'm gonna hold him a different way. Look I don't understand, if you hated it so much, why did you buy it in the first place?
 joey: Well, I had a whole ceramic zoo thing goin' over there but now, without the other ones, it just looks tacky.
 chandler: So is he housetrained or is he gonna leave little bathroom tiles all over the place? Stay. Good, STAY! Good fake dog. END
-<episode>The One Where Old Yeller Dies
+<episode>0220 : The One Where Old Yeller Dies
 phoebe: Hey. Watcha guys doin?
 richard: Monica's making us watch Old Yeller.
 phoebe: Why are you guys so upset? It's Old Yeller, it's a happy movie.
@@ -10403,7 +10403,7 @@ ernie: Oh wow, look at this nice deep hole I've been digging. Hey Bert, isn't th
 phoebe: Ok, Ben, this is the part where Ernie buries Bert in the sand and can't find him. Now, I've looked ahead on the tape and he does find him again. But, ok, before that happens, there's some pretty rough goin' for a while but I think we can handle it. And, there's just the alphabet but we know that ends well so. Ok, here we go.
 ernie: Bert, Bert. Bert. Hey, what happened to my friend Bert? He was here just a moment ago. Oh no, my old friend Bert is lost.
 phoebe: Oh, I'm so glad you're here. END
-<episode>The One With the Two Bullies
+<episode>0221 : The One With the Two Bullies
 joey: Hey Monica, why are we watchin' the business channel?
 monica: 'Cause I was going by it the other day and I saw that there was a stock with my initials, MEG, on it and, well, sometimes I have to watch for two or three hours before it comes up again but when it does, it's pretty exciting.
 rachel: Ok honey, you really need a job.
@@ -10693,7 +10693,7 @@ joey: He-he-he, how's it goin'?
 phoebe: Hey nice boobs.
 chandler: Guys guys, check this out.
 joey: Excellent. END
-<episode>The One With the Two Parties
+<episode>0222 : The One With the Two Parties
 monica: So, I'll get candles and my mom's lace tablecloth, and since it's Rachel's birthday, I mean, we want it to be special, I thought I'd poach a salmon.
 all: Ohhh.
 monica: What?
@@ -10918,7 +10918,7 @@ joey: Kinda looks like that stuff you get when you get a bad infection.
 monica: Ok, that's enough.
 phoebe: Ok Rachel, make a special flan wish.
 rachel: Ok, I've got one.   Wow, those things almost never come true. END
-<episode>The One With the Chicken Pox
+<episode>0223 : The One With the Chicken Pox
 rachel: Ok, Chandler, Mon, there's only one bananna nut muffin left.
 monica: Oh, I ordered mine first.
 chandler: Yeah, but I'm, I'm so much faster...
@@ -11166,7 +11166,7 @@ rachel: I'll say.
 ross: I'm shipping out tomorrow.
 rachel: Well then uh, we better make this night count.   Oh wait, I forgot to turn off the cappucino machine.   Anchors away. Oh no no, my purse, my purse, my purse, my purse, my purse, my pu rse.   Oh, you know what. I forgot to turn off the bathroom light.
 ross: Alright you know, why don't I just meet you upstairs.   END
-<episode>The One With Barry and Mindy's Wedding
+<episode>0224 : The One With Barry and Mindy's Wedding
 rachel: Hey Joey, how'd the audition go?
 joey: Incredible! I met the director this time and you'll never believe who it was.
 all: Who?
@@ -11368,7 +11368,7 @@ janice: OH.....MY.....GAWD!!
 all: OH.....MY.....GOD!!
 ross: All right I've been feeling incredibly guilty about this, because I wanna be a good friend, and dammit I am a good friend. So just, just shut up and close your eyes  .
 joey: Wow, you are a good friend, 'course the audition was this morning, and I didn't get it. But that was a hell of a kiss. Rachel is a very lucky girl.
-<episode>The One With the Princess Leia Fantasy
+<episode>0301 : The One With the Princess Leia Fantasy
 joey: I'm tellin' ya that girl totally winked at me.
 all: Did not, she did not wink at you... .
 chandler: Huh.   Opening Credits
@@ -11598,7 +11598,7 @@ monica: I think so. Mr. Geller: Honey, relationships are hard. Like with your Mo
 rachel: Okay, here we go. I'm Jabba's prisoner, and you have a really weird look on your face. What? Honey, what is it? Did I get it wrong? Did I get the hair wrong? What? Did you just picture it differently? What? What?
 ross: No, no it's, um, it's not you, um, it's um, it's   Mrs. Geller: Well what is it? Come on sweetie, your like, freaking me out here.
 ross: I hate Chandler, the bastard ruined my life.
-<episode>The One Where No-one's Ready
+<episode>0302 : The One Where No-one's Ready
 joey: All right they got water, orange juice, and what looks like cider.
 chandler: Taste it.
 joey: Yep, it's fat. I drank fat!
@@ -11884,7 +11884,7 @@ whitfield: But, you got up!
 chandler: But, I never left the room!
 whitfield: But, you left the chair area.
 chandler: All right, that's it, give me your underwear.
-<episode>The One With the Jam
+<episode>0303 : The One With the Jam
 joey: WHOAA!!
 chandler: See Joe, that's why your parents told you not to jump on the bed. Opening Credits
 monica: Hey, look at me. I'm making jam, been at it since 4 o'clock this morning.
@@ -12117,7 +12117,7 @@ rachel: Hello.
 ross: Hey.   Uh, Chan, can I uh, can I talk to you for a second?
 chandler: Sure. What's up?
 ross: Just one uh, one additional relationship thought. Probably something your already familiar with, uh, women talk!
-<episode>The One With The Metaphorical Tunnel
+<episode>0304 : The One With The Metaphorical Tunnel
 host: Welcome everybody, welcome to Amazing Discoveries!
 phoebe: Oh, oh! It's on again!
 joey: You guys, can we please not watch this all right.
@@ -12347,7 +12347,7 @@ ross: Okay, that's, that's enough.
 monica: '....Won't you, won't you, won't you.... '
 ross: Won't you dance around with me.
 monica: A-ha!!!   Ohhh!
-<episode>The One With Frank Jr.
+<episode>0305 : The One With Frank Jr.
 chandler: Hey!
 joey: Hey!
 chandler: Hey-hey-hey. So what happened? A forest tick you off?
@@ -12625,7 +12625,7 @@ chandler: Oh, I think I have the cash.
 joey: You are dogged man! I totally fit!
 chandler: Yeah, you got me.   I’m out five big ones!   Here you go.
 joey: Thank you. Cha-ching!   Oh, well hello Mr. Lincoln. Better luck next time buddy.   And the drinks are on me!
-<episode>The One With The Flashback
+<episode>0306 : The One With The Flashback
 note: Rachel has two friends that are not named, so I referred to them as Friend No. 1 and Friend No. 2.}
 janice: Janice has a question. Who of the six of you has sleep with the six of you?
 phoebe: Wow, it’s like a dirty math problem.
@@ -12858,7 +12858,7 @@ rachel: Don’t say anything. I don’t wanna speak, I don’t wanna think. I just wan
 rachel: What? Friend No. 2: You missed the exit!
 rachel: Oh, sorry. Friend No. 1: My God, what were you thinking about?
 rachel: Um,   Barry. Her Friends: Awwww!!
-<episode>The One With The Race Car Bed
+<episode>0307 : The One With the Race Car Bed
 ross: So I told Carl, ‘Nobody, no matter how famous their parents are, nobody is allowed to climb on the dinosaur.’ But of course this went in one ear and out.....
 rachel: I love how he cares so much about stuff. If I squint I can pretend he’s Alan Alda.
 monica: Oh good, another dinosaur story. When are those gonna become extinct?
@@ -13063,7 +13063,7 @@ joey: Oh-ho-kay, I’m talking to the king.
 jester: Hey! You can’t go back there!
 janice: Oh my God.   Closing Credits
 chandler: Varrrrrroom! Hey! Watch it lady! Varrrrrrrrrrom!   All right, I’ll leave. My bed’s so boring.
-<episode>The One With The Giant Poking Device
+<episode>0308 : The One With The Giant Poking Device
 rachel: Here you go Pheebs. Who else wants one of my special homemade brownies?
 chandler: I will have one.
 chandler: Okay, I’m not gonna have one.
@@ -13296,7 +13296,7 @@ chandler: I know.
 phoebe: I know.
 chandler: I’ve found.
 phoebe: I’ve found.... Chandler and Phoebe: ...in you, my endless
-<episode>The One With The Football
+<episode>0309 : The One With The Football
 phoebe: Hey, it’s your Thanksgiving too, y'know, instead of watching football, you could help. The Guys: We will.
 monica: Okay, Rachel, you wanna put the marshmellows in concentric circles.
 rachel: No Mon, you want to put them in concentric circles. I want to do this.
@@ -13577,7 +13577,7 @@ monica: I don’t know. I guess the other people just don’t care enough.
 ross: Hey! It’s starting to snow.
 ross: Gimme the this!
 monica: Let go! End
-<episode>The One Where Rachel Quits
+<episode>0310 : The One Where Rachel Quits 
 chandler: Eh..., I don’t, I don’t know.
 rachel: What?
 chandler: Well, as old as he is in dog years, do you think Snoopy should still be allowed to fly this thing?
@@ -13795,7 +13795,7 @@ ross: Oh come on! Here we go!   Stand by for mission countdown!
 joey: 
 chandler: I’m an alien. I’m an alien.
 ross: Oh no! An asteroid!     End
-<episode>The One Where Chandler Can't Remember Which Sister
+<episode>0311 : The One Where Chandler Can’t Remember Which Sister 
 joey: Okay, pick a card, any card.   All right, now memorize it. Show to everybody. Got it?
 monica: Um-mm.
 joey: All right, give it back to me.   5 of hearts.
@@ -14068,7 +14068,7 @@ chandler: Don’t worry.
 phoebe: God, I hope they kick his ass!
 rachel: Honey, I’m sorry.
 monica: Y'know if it’s any consolation, he really did sound like he was having more fun with you.
-<episode>The One With All The Jealousy
+<episode>0312 : The One With All The Jealousy
 rachel: Okay. Hey. Umm. Does everybody hate these shoes?
 chandler: Oh yeah, but don't worry. I don't think anybody's gonna focus on that as long as your wearing that towel dress.
 rachel: Tell him.
@@ -14310,7 +14310,7 @@ julio: I am Julio.
 man: Mister Pretensous,   you think there's no one finer, well but your poems are unpublished, and you work in a diner.
 quartet: Your no God's gift to women, that's all in your headdddd. You are just a buttmunch.  Bass Singer: No one likes a buttmunch.
 quartet: And your also bad in bedd-edd-edd!.     End
-<episode>The One Where Monica and Richard Are Friends
+<episode>0313 : The One Where Monica and Richard Are Friends
 monica: Hi.
 clerk: Six dollars, please.
 monica: Six? I just had it for one night. It’s three.
@@ -14578,7 +14578,7 @@ joey: Yeah.
 rachel: Do you want to put the book in the freezer?
 joey: Okay.
 rachel: Okay.
-<episode>The One With Phoebe's Ex-Partner
+<episode>0314 : The One With Phoebe’s Ex-Partner
 singer: ‘Cause every time I see your face, I can’t help but fall from grace. I know.....
 joey: Wow! This girl is good.
 phoebe: Oh-ho yeah! A song with rhyming words. Oo, I never thought of that before.
@@ -14788,7 +14788,7 @@ monica: Wow! It’s like Rachel in High School.
 rachel: What?!!
 monica: Come on! Come on, I was kidding! It was such an obvious joke!
 chandler: That was an obvious joke, and I didn’t think of it. Why didn’t I think of it? The source of all my powers. Oh dear God, what have I done!
-<episode>The One Where Ross and Rachel Take A Break
+<episode>0315 : The One Where Ross and Rachel Take A Break
 joey: Hey, how much will you give me to eat this whole jar of olives?
 monica: I won’t give you anything, but you’ll owe me 2.95.
 joey: Done.
@@ -15039,7 +15039,7 @@ phoebe: Ameri-can.
 sergei: Ameri-ccan.
 phoebe: Ameri-can. Y'know it’s a very hard language. Let’s do it again.
 sergei: Everybody!!
-<episode>The One The Morning After
+<episode>0316 : The One The Morning After
 joey: Previously on Friends.
 ross: I mean, I don’t feel like I even have a girlfriend anymore.
 rachel: You want me to just quit my job so that you can feel like you’ve got a girlfriend?
@@ -15321,7 +15321,7 @@ phoebe: They’ve been quiet for a long time.
 joey: Maybe she killed him?
 chandler: Let’s go.
 chandler: Is that your new walk?
-<episode>The One Without The Ski Trip
+<episode>0317 : The One Without The Ski Trip 
 joey: Can I see the comics?
 chandler: This is the New York Times.
 joey: Okay, may I see the comics?
@@ -15611,7 +15611,7 @@ ross: Okay.
 carol: Okay, bye!!
 ross: So they ah, they all took off, it was pretty hard watching them go, y'know?
 carol: Yeah, okay, bye.
-<episode>The One With The Hypnosis Tape
+<episode>0318 : The One With The Hypnosis Tape
 monica: What’s so funny?
 joey: Oh, nothing, no. It’s an acting exercise, I’m practising my fake laugh.
 monica: Oh.
@@ -15847,7 +15847,7 @@ alice: Right, not just that. Umm, even though we love each other as much as we d
 phoebe: None the less.
 alice: None the less. Umm, you’re too young to, to really know what you want.
 phoebe: That’s right, exactly.   Okay, no, the important thing is that you see what I’m saying, y'know, just y'know, this is clearly wrong.  . Closing Credits   Hypnosis Tape: Cigarette’s don’t control you. You are a strong, confident woman, who does not need to smoke.
-<episode>The One With The Tiny T-shirt
+<episode>0319 : The One With The Tiny T-shirt
 gunther: Here you go.
 rachel: Thank you.
 gunther: Say Rachel, I was wondering if you’d like to go to a movie with me sometime. As my lover! Nnnsch, to out there. Maybe you’d just like to ah, get something to eat with me sometime? As my lover.
@@ -16074,7 +16074,7 @@ phoebe: Okay well, he would turn things to gold.
 chandler: What about things that are already gold?
 phoebe: Ahh, his work is done.
 chandler: Okay, let’s play my game now.
-<episode>The One With The Dollhouse
+<episode>0320 : The One With The Dollhouse
 chandler: Wait a minute, wait. You’re telling me this actress person is the only woman you ever wanted who didn’t want you back?!
 joey: Yeah! Oh my God!   Is this what it’s like to be you?
 monica: Wow, you’re really crazy about her, huh?
@@ -16337,7 +16337,7 @@ joanna: Well, this isn’t how I was hoping how this would end, but I guess I have
 chandler: Yeah, o-okay.
 joanna: So...
 chandler: Well this is great! I’ll give you a call! We should do it again sometime!   Closing Credits
-<episode>The One With A Chick. And A Duck
+<episode>0321 : The One With A Chick. And A Duck
 rachel: So who’s idea was it to put everybody in the diner on skates?
 monica: Oh, some idiot customer put a suggestion in the suggestion box.
 phoebe: Oh my God, they took my idea!
@@ -16669,7 +16669,7 @@ chandler: I don’t know. Should we try it?
 joey: Sure.
 chandler: See, I told you they don’t swim.
 joey: Wait. Give him a minute.
-<episode>The One With The Screamer
+<episode>0322 : The One With The Screamer
 rachel: Oh, Phoebe, are you still on hold? I was supposed to call my Dad back like two hours ago.
 phoebe: Oh, yeah, he clipped on, he said call him as soon as you get a chance, he’s at Flimby’s.
 rachel: What’s Flimby’s?
@@ -16932,7 +16932,7 @@ all: Hang it up! Hang up the phone!!
 phoebe: Fine! Fine!   Oh-oh!
 monica: What?
 phoebe: Well, I think I broke it. But that’s all right, here’s the number you can call.
-<episode>The One With Ross's Thing
+<episode>0323 : The One With Ross's Thing
 joey: Hey, wouldn't be cool if our duck and chick had a little baby? We could call it Chuck.
 chandler: Or... Dick.
 ross: Hey. Chandler and Joey: Hey.
@@ -17161,7 +17161,7 @@ vince: You made him a candle light dinner in the park?
 phoebe: Yeah, but I-I-I-I can do that for you, I’m gonna do that for you.
 vince: Uh yeah, I can’t believe I ever went out with somebody who would actually have an open flame in the middle of a wooden area.   Closing Credits
 chandler: -Whoa!!   That’s supposed to be a duck right? ‘Cause otherwise, this is waaay out of my league.
-<episode>The One With The Ultimate Fighting Champion
+<episode>0324 : The One With The Ultimate Fighting Champion
 chandler: Do you think that there’s a town in Missouri or some place called Sample? And ah, as you’re driving into town there’s-there’s like a sign, and it says “You’re in Sample.”
 monica: Hey.
 all: Hey!
@@ -17403,7 +17403,7 @@ joey: No-o-o!! TV Announcer: Uh-oh, Bruiser has Becker on the canvas and is goin
 all: Oh! Oh!
 phoebe: Wait, if that’s his favourite area, why is he being so mean to it?
 ross: Well, this is ironic. Of your last two boyfriends, Richard didn’t want to have kids, and from the looks of it, now Pete can’t.
-<episode>The One At The Beach
+<episode>0325 : The One At The Beach 
 chandler: So ah, your first sexual experience was with a woman?!
 bonnie: All right, I was 15, it was my best friend, Ruth, and we got drunk on that hard cider, and then suddenly, I don’t know, we were, we were making out.
 chandler: Tell it again.   Seriously.
@@ -17669,7 +17669,7 @@ chandler: Hi there.
 monica: That’s that weird voice again.
 chandler: Okay! Okay! Let me try it again, you’re gonna wanna date this next guy, I swear!
 chandler: Hi! I’m Dorf! You’re date for the evening.   Oh come on! Dorf on dating, that’s good stuff!! End
-<episode>The One With The Jellyfish
+<episode>0401 : The One With The Jellyfish
 joey: Okay, so we went to the beach, because Phoebe found out about this lady who knew her mom and dad, and I don’t really know what happened with that.   Phoebe Sr.:   I’m your mother.
 phoebe: Ehh?
 joey: Oh, and then Monica joked that she wouldn’t go out with a guy like Chandler...
@@ -17866,7 +17866,7 @@ chandler: We were playing Gin? Y'know if we were a couple, we could play this ga
 monica: Will you stop!
 chandler: Okay. All right.
 monica: Okay, all right, I think you’re great, I think you’re sweet, and you’re smart, and I love you. But you will always be the guy who peed on me.
-<episode>The One With The Cat
+<episode>0402 : The One With The Cat
 chandler: Wow! That ripped! That ripped real nice!
 joey: How many times do I have to tell you! Ya, turn and sliiiide! Y'know, turn and slide.
 chandler: You don’t turn and slide, you throw it out! I’m tired of having to get a tetanus shot every time I get dressed!
@@ -18090,7 +18090,7 @@ phoebe: Come on, Mom, I’ll take you home.
 rachel: I’ll go with you.
 monica: Me too.
 ross: Oh! Y'know, I’ve got an extra futon.
-<episode>The One With The ‘Cuffs
+<episode>0403 : The One With The ‘Cuffs
 joey: Hey!! We are so in luck! Treeger said that we could have all this cool stuff from the basement. Wait right there.
 chandler: Oh no-no-no, I’m, I’m paddling away!
 joey: Huh?!
@@ -18308,7 +18308,7 @@ rachel: Yeah, sure. Umm, they didn’t have poppy seed bagels, so I…   Oh my word!
 joanna: I seem to have had a slight office mishap. Could you please get the key off the back of the door for me.
 rachel: Oh, yeah! Yeah!
 joanna: You tell your friend Chandler that we’re definately broken up this time.
-<episode>The One With The Ballroom Dancing
+<episode>0404 : The One With The Ballroom Dancing
 phoebe: Hey! New wallet, huh?
 chandler: Yeah, it was time. The old condom ring in the leather just doesn’t say ‘cool’ anymore.
 monica: Rachel!
@@ -18501,7 +18501,7 @@ joey: No, I’m good.   Closing Credits
 interviewer: So it looks like you’ve got some great experience here. Let’s see ahh, reason for leaving last job?
 phoebe: Yeah, they thought I was a whore.
 interviewer: Okay, we’ll give a call if anything comes up.
-<episode>The One With Joey's New Girlfriend
+<episode>0405 : The One With Joey's New Girlfriend
 ross: It's no big deal, I mean it is her home phone number, but...
 phoebe: Thank you. Opening Credits
 gunther: Rachel?
@@ -18738,7 +18738,7 @@ gunther: Well, we kissed. I-I-I didn't initiate the kiss, but-but I also didn't 
 rachel: Okay.
 gunther: So umm, are we cool?
 rachel: Okay.
-<episode>The One With The Dirty Girl
+<episode>0406 : The One With The Dirty Girl
 cheryl: So, thank you for the delicious dinner.
 ross: You're welcome for a delicious dinner.
 phoebe: Hey what are you guys looking at?
@@ -18987,7 +18987,7 @@ monica: Hi. Uh, you... you don't know me, I'm Monica Geller... Ross's sister.
 cheryl: Oh, yeah. Oh, you know, that's too bad that didn't work out.
 monica: Yeah. Anyway, he told me about your apartment. And, um, I couldn't sleep, thinking about it. So, uh, would it be okay if I cleaned it?
 monica: No?
-<episode>The One Where Chandler Crosses A Line
+<episode>0407 : The One Where Chandler Crosses a Line
 chandler: I just walked in the bathroom and saw Kathy naked! It was like torture!
 ross: Y'know if we ever go to war and you’re captured, you’re in for a big surprise.
 chandler: It just keeps getting worse and worse! Y'know? I mean it’s bad enough that I’m in love with my roommates girlfriend—which by the way, I think she knows. Because every time we’re in the room together there’s this weird like energy between us. And call me crazy, but I think she likes me too. And now I have seen her naked. I mean at least when I’ve seen her with clothes on, I could imagine her body was like covered in boles or something. But there are no boles, she’s smooth! Smooth!
@@ -19224,7 +19224,7 @@ ross: Yeah, like I could lose it.
 rachel: What?
 ross: I played bad on purpose guys.
 monica: Okay, so you were trying to play bad this whole time.
-<episode>The One With Chandler In A Box
+<episode>0408 : The One With Chandler in a Box
 joey: Hello.
 chandler: 
 joey: Hello.
@@ -19492,7 +19492,7 @@ phoebe: Oh, she sees him! Oh, they’re hugging!
 ross: He’s taking her purse!
 joey: Uhh, that’s not them. I’m gonna go call the police.
 phoebe: Oh, there they are!
-<episode>The One Where They're Gonna PARTY!
+<episode>0409 : The One Where They’re Gonna PARTY!
 phoebe: Okay!
 monica: Come on, no peeking!
 chandler: Our eyes are closed and we’re about to cross the street. Very good.
@@ -19736,7 +19736,7 @@ sophie: Good morning!
 rachel: Oh, Sophie, I guess you didn’t hear about Joanna…
 sophie: I sure did!   Closing Credits
 allesandro: I’m so excited about having Monica come on board with us. Although I do feel bad about having fired chef Emillio, it’s like losing a member of the family. Of course, that literally is the case for several of you. Tony, Carlos, Marie, please, tell your father how much we’re gonna miss him. Now, I know that Monica has a lot of great ideas for this place, well, you all read the review. So without much further ado, I present to you our new head chef.
-<episode>The One With The Girl From Poughkeepsie
+<episode>0410 : The One With The Girl From Poughkeepsie
 ross: Hey!  Chandler, Joey, and Phoebe: Hey!
 ross: I’m sorry I’m late, did I miss anything?
 phoebe: Joey stuffing 15 Oreos in his mouth.
@@ -19937,7 +19937,7 @@ monica: Thanks.
 joey: Yep! Looks like it’s gonna be a leeeeean Christmas at the Dragon house this year.
 monica: Enough!
 joey: Lean-lean-lean! Closing Credits
-<episode>The One With Phoebe’s Uterus
+<episode>0411 : The One With Phoebe’s Uterus
 phoebe: Oh my God! I can’t believe my little brother is married!
 frank: Oh I know!!
 phoebe: You guys, why didn’t you tell me you were eloping?
@@ -20122,7 +20122,7 @@ monica: Really?
 rachel: Yes.   You’re not asking are you?
 monica: No.
 rachel: Yes! Totally!
-<episode>The One With The Embryos
+<episode>0412 : The One With The Embryos
 rachel: What the hell is that?!!
 monica: Boy, you are really not a morning person.
 rachel: 
@@ -20406,7 +20406,7 @@ rachel: I don’t know! But maybe if we keep that drawer shut, it’ll die.
 monica: I can’t believe we’re living here!
 chandler: What?! What-what is it?!
 joey: Did you see the size of the closets?!
-<episode>The One With Rachel’s Crush
+<episode>0413 : The One With Rachel’s Crush
 chandler: Okay, she is the star of the play. And she is my girlfriend! I get to have sex with the star of the play!
 ross: People can hear you.
 chandler: I know!!
@@ -20661,7 +20661,7 @@ chandler: Because, I-I should’ve called! Y’know if I had just called her after o
 rachel: Honey, this is not your fault, just because you guys had a fight, it does not justify her sleeping with someone.
 ross: Well, if-if she thought they were on a break…   Closing Credits   Mr. Waltham: Rachel, one of your customers seems to have left his billfold. A Joshua Bergen.
 rachel: Really? Mr. Waltham: Will you call him?
-<episode>The One With Joey’s Dirty Day
+<episode>0414 : The One With Joey’s Dirty Day
 phoebe: So now, what is this now?
 joey: Guggly worm.
 phoebe: And this?
@@ -20928,7 +20928,7 @@ chandler: Oh, that’s fine! Go with your instincts, go with your instincts.
 monica: Wait, now, what am I doing again?
 chandler: Come on! Would you please pay attention, I could wake up at any moment! The Cigarette Guy: Hi, I’m Joshua, I’m here to pick up Rachel.
 rachel: No-no-no, that’ not Joshua.
-<episode>The One With All The Rugby
+<episode>0415 : The One With All The Rugby
 chandler: Y'know, I can't believe I'm getting my nails done!  And you said it was gonna be fun!   Which it kinda is.  Also, you said there would be other guys here. There are no other guys here!
 rachel: Chandler, there’s a guy right over there.
 chandler: That’s a mailman! That’s our mailman!     Hi. How are ya?
@@ -21169,7 +21169,7 @@ chandler: Well, I then guess I’m going to Yemen! I’m going to Yemen!   When we g
 monica: All right. The super couldn’t figure out what it did. A $200 an hour electrician couldn’t figure out what it did. I’ve had seven pretty serious shocks. I officially give up.
 rachel: Thank God.
 monica: I guess Joey was right, it does nothing.
-<episode>The One With The Fake Party
+<episode>0416 : The One With The Fake Party
 monica: What is it hon?
 phoebe: I-I can’t find anything that I want to eat! Everything I eat makes me nauseous! I’m telling you, being pregnant is no piece of cake—ooh! Cake!   No.
 monica: Aww, honey I’m sorry.
@@ -21425,7 +21425,7 @@ phoebe: Okay.
 joey: Oh mama! Uh when-when is the baby due?
 phoebe: Six months.
 joey: Ugh. Now if a cow should die of natural causes, I can have one of those right?
-<episode>The One With The Free Porn
+<episode>0417 : The One With The Free Porn
 joey: What is that?
 chandler: Treeger’s snaking the shower drain. Mr. Treeger: What in the name of hell?
 joey: Maybe he found you flip-flop.
@@ -21670,7 +21670,7 @@ chandler: You wanna see if we still have it?
 joey: Yeah.
 chandler: FREE PORN!!!
 joey: Yeah!!
-<episode>The One With Rachel's New Dress
+<episode>0418 : The One With Rachel’s New Dress
 phoebe: Hey!
 chandler: Hey! Wow, it is true what they say, pregnant bellies look like a drum.
 phoebe: Ha-ha.   No, it’s just I’m so pregnant that I—my guitar doesn’t fit anymore. So I thought ‘til I’m not, I’m just gonna play all my songs on this drum. It sounds really cool!
@@ -21907,7 +21907,7 @@ emily: Hey! I missed you.
 ross: Oh, I missed you too.
 susan: Thanks for everything, I had such a great time.
 emily: Oh, so did I.
-<episode>The One With All The Haste
+<episode>0419 : The One With All The Haste
 rachel: HEY!! Do you have to do that? It’s Saturday! The Singing Man: Oh come on! Morning’s here!   Morning’s here! The morning is here! Sunshine is here!
 rachel: I hate this apartment! I hate the color of these walls! I hate the fact that this place still smells like bird! I hate that singing guy!
 joey: Are you kidding? I love that guy!   Morning’s here! Morning is here—
@@ -22174,7 +22174,7 @@ joey: Monica and Rachel made out.
 both: Sunshine is here! The sky is clear, the morning’s here! The Singing Man: Hey! You’re back!
 joey: Hey!   Get into gear! The Singing Man:   Breakfast is near!
 both: The dark of night has disappeared!! The Singing Man: I’ll see you tomorrow morning!
-<episode>The One With All The Wedding Dresses
+<episode>0420 : The One With All the Wedding Dresses
 chandler: Are you kidding me?! Joey. Joey! Joey! Joey! Joey! Joey! Joey! Joey! Joey! Joey!!
 joey: Joey. Joey. Joey. Joey! Joey!!
 chandler: Oh. Oh, did-did-did I wake you? Opening Credits
@@ -22423,7 +22423,7 @@ phoebe: Not after this!
 rachel: Okay, you guys, just relax.   I doooo.
 joshua: I gotta go.
 rachel: Oh, wait, Joshua! Joshua!     Yeah, well, that oughta do it. Closing Credits
-<episode>The One With the Invitation
+<episode>0421 : The One With The Invitation
 chandler: Y’know what? It seems like all of the sudden; so much has happened.
 joey: I know. Ross is getting married.
 chandler: Phoebe is, making people.
@@ -22660,7 +22660,7 @@ joey: It’s better! You can’t go to a museum in your underwear!
 chandler: Well, You could, but... probably just the one time.
 joey: I bet we could get videos of all the sites, get a VCR in our hotel room... we'd never even have to go outside!
 chandler: If we do that, we gotta get Die Hard.
-<episode>The One With The Worst Best Man Ever
+<episode>0422 : The One With The Worst Best Man Ever
 phoebe: That’s like the tenth time I’ve peed since I’ve been here!
 monica: That’s also like the tenth time you told us.
 phoebe: Yeah, oh I’m sorry, it must be really hard to hear! I tell ya, it’s a lot easier having three babies play Bringing in the Noise, Bringing in da Funk on your bladder! I’m so sick of being pregnant! The only happiness I get is from a cup of coffee, which of course is decaf, ‘cause—Oh! I’m pregnant!
@@ -22902,7 +22902,7 @@ ross: Hey, both you guys should be up there with me. I mean, you two are-are my…
 chandler: Thanks man.
 joey: I gotta go check something over here.
 chandler: What a baby.
-<episode>The One With Ross's Wedding Parts I and II
+<episode>0423 : The One With Ross’s Wedding Parts I and II
 monica: Guys, hurry up! The flight leaves in four hours! It could take time to get a taxi! There could be traffic! The plane could leave early! When we get to London, there could be a line at customs! Come on!!
 chandler: Six-hour trip to London. That’s a lot of Monica.
 monica: Passport, check!   Camera, check! Traveller’s cheques, check!
@@ -23388,7 +23388,7 @@ ross: I Ross...
 minister: Take thee, Emily...
 ross: Take thee, Rachel...  Emily.   Emily.
 minister: Uhh...Shall I go on?
-<episode>The One After Ross Says Rachel
+<episode>0501 : The One After Ross Says Rachel
 minister: Friends. Family. We are gathered to celebrate here today the joyous union of Ross and Emily.   Now Ross, repeat after me. I Ross...
 ross: I Ross...
 minister: Take thee, Emily...
@@ -23628,7 +23628,7 @@ rachel: Okay. Wait! Wait!
 ross: Emily.
 ross: Oh no-no-no! Oh-no!   No! No! Emily! Ending Credits
 rachel: Ahh, yes, I will have a glass of the Merlot and uh,   Hey, are we moving?! Are we moving? Why are we moving? Hey, time-out, umm, yeah, does the captain know that we’re moving?   Oh my God. Oh, my gosh. End
-<episode>The One With All The Kissing
+<episode>0502 : The One With All The Kissing
 monica: You look cute in bubbles.
 chandler: Ehh, you're just liquored up.
 joey: Hey, it's me! I'm comin' in!
@@ -23872,7 +23872,7 @@ monica: Do you know anything about women?
 chandler: No.
 monica: That's all right.
 chandler: Okay.   End
-<episode>The One Hundredth
+<episode>0503 : The One Hundredth
 phoebe: Hi.
 nurse: Hi.
 phoebe: Hi, yeah, hi! I'm umm, Phoebe Buffay, and I have babies coming out of me.
@@ -24096,7 +24096,7 @@ chandler: So uh, now that little Chandler turned out to be a girl, what are they
 phoebe: They're gonna call her Chandler.
 chandler: That's kind of a masculine name, don't you think?
 phoebe: Works on you. End
-<episode>The One Where Phoebe Hates PBS
+<episode>0504 : The One Where Phoebe Hates PBS
 monica: Come in. I've been waiting for you.
 rachel: Hi! I just wanna- -Ahhh!!! Oh my God!   Oh my God!
 monica: Okay, I'm sorry! I'm sorry! I-I-I was um, I was taking a nap.
@@ -24304,7 +24304,7 @@ rachel: Ross? Look, whatever this relationship stuff that Emily wants, just give
 ross: Good. Look umm, yes I've been thinking about that thing that you wanted me to do and, I can do it.   So will you come to New York?   Ending Credits
 monica: Never done that before.
 chandler: Nope. End
-<episode>The One With All the Kips
+<episode>0505 : The One With All the Kips
 monica: Hi!
 chandler: 
 joey: Monica? What time is it?
@@ -24557,7 +24557,7 @@ monica: Wait-wait, guys! If-if we follow the rules, it's still fun and it means 
 rachel: Uh-huh!
 joey: I think I'm gonna take-off.
 monica: Guys, rules are good! Rules help control the fun!   Ohhh!   End
-<episode>The One With The Yeti
+<episode>0506 : The One With The Yeti
 joey: Hey! Hey! Hey! Hey!! None of that, not while you're living under my roof!
 monica: What?!
 joey: Look, just because I know about you two, doesn't mean I like looking at it.
@@ -24787,7 +24787,7 @@ phoebe: Here.
 rachel: Ross, honey, is there anything we can do?
 ross: Yeah. You can help me get my furniture back from Gunther. Ending Credits
 phoebe: Here.   You take it.   Are you happy now? I'm cold! End
-<episode>The One Where Ross Moves In
+<episode>0507 : The One Where Ross Moves In
 chandler: Are you looking at naked tribe's women?
 joey: No, look.
 chandler: That's a pig.
@@ -25057,7 +25057,7 @@ chandler: Well, I see you've had a very productive day. Don't you think the cowb
 ross: Come on, it's fun!
 chandler: All right!   Isn't this a woman's hat?
 joey: Dude, stop talking crazy and make us some tea!   End
-<episode>The One With The Thanksgiving Flashbacks
+<episode>0508 : The One With The Thanksgiving Flashbacks
 rachel: Oh Monica that was the best Thanksgiving dinner ever! I think you killed us.
 ross: I couldn't possibly eat another bite.
 joey: I need something sweet.
@@ -25249,7 +25249,7 @@ chandler: No I didn't!
 monica: You love me!
 chandler: No I don't! Stop it! Stop it! Stop it! Stop it!   Ending Credits Thanksgiving 1915
 phoebe: Gauze! Gauze! I need to get some gauze in here! Can I please get some gauze in here!   Whew!   This is getting ridiculous uh!  End
-<episode>The One With Ross's Sandwich
+<episode>0509 : The One With Ross's Sandwich
 phoebe: What am I sitting on?
 chandler: Top of the world? Dock of the bay?   I'm out.
 phoebe: Ew-eww!! Undies!
@@ -25464,7 +25464,7 @@ phoebe: I don't know! I didn't come with her!
 monica: All right everybody! Everybody guess what? I just convinced Paul to give us a test next week!
 all: A test?!!
 monica: Come on! Tests make us all better learners! Oh yeah!   We should have essay questions!! End
-<episode>The One With The Inappropriate Sister
+<episode>0510 : The One With The Inappropriate Sister
 joey: What are you doing?
 ross: I...reorganized the fridge. See, bottom shelf: meats and dairy.
 joey: Why are you doing this?
@@ -25723,7 +25723,7 @@ rachel: Oh, y'know Joey, you are sick!
 monica: This is disgusting!
 rachel: I'm not reading this!
 joey: What?! Wait-wait-wait! The handsome man was about to enter!! End
-<episode>The One With All The Resolutions
+<episode>0511 : The One With All The Resolutions
 leno: Is there any entertainment there? What are people doing?
 joey: All right! Here we go! 1999! The year of Joey!
 chandler: We're very happy for you.
@@ -25963,7 +25963,7 @@ joey: Oh, I am going to go for a walk in the rain.
 rachel: Ohhh, yeah, me too.
 phoebe: That's weird.   I bet they're doing it. Ending Credits
 chandler: End
-<episode>The One With Chandler's Work Laugh
+<episode>0512 : The One With Chandler's Work Laugh
 rachel: Come on Joey!!!
 joey: Rach, I told you everything I knew last night! Look, it's not that big of a deal, so Monica and Chandler are doing it.
 rachel: I can't believe you would say that!
@@ -26220,7 +26220,7 @@ ross: Okay.
 chandler: I also want you to remember that I let you live here rent free!
 ross: All right.
 chandler: And, I want you to remember that I gave you twenty   seven dollars. No strings attached. Now, if you can't remember that, I think we should write it down—let's write it down! End
-<episode>The One With Joey's Bag
+<episode>0513 : The One With Joey's Bag
 monica: I can't believe we've never done this before! It's sooo good! So good for Monica!
 chandler: Oh! Look at that, time's up! My turn!
 monica: That was a half an hour?
@@ -26443,7 +26443,7 @@ rachel: …I just don't know if the world is ready for you and your bag.
 joey: I can't believe I'm hearing this!
 rachel: Wait a minute! Wait a minute! I'm not saying that you shouldn’t have a bag, I just—it's just there are other bags that are a little less umm,   controversial.
 chandler: Yeah umm, they're called wallets. End
-<episode>The One Where Everyone Finds Out
+<episode>0514 : The One Where Everyone Finds Out
 phoebe: Oh hey, you guys, look! Ugly Naked Guy is putting stuff in boxes!
 rachel: I'd say from the looks of it; our naked buddy is moving.
 ross: Ironically, most of the boxes seem to be labeled clothes.
@@ -26708,7 +26708,7 @@ chandler: Yes, and we'd appreciate it if no one told him yet.   Ending Credits
 ross: A new place for a new Ross. I'm gonna have you and all the guys from work over once it's y'know, furnished. Dr. Ledbetter: I must say it's nice to see you back on your feet.
 ross: Well I am that. And that whole rage thing is definitely behind me. Dr. Ledbetter: I wonder if its time for you to rejoin our team at the museum?
 ross: Oh Donald that-that would be great. I am totally ready to come back to work. I—What?   No! Wh… What are you doing?!!   GET OFF MY SISTER!!!!!!!!!!!!!  End
-<episode>The One With The Girl Who Hits Joey
+<episode>0515 : The One With The Girl Who Hits Joey
 ross: Chandler!!! Chandler!!!   Chandler, I saw what you were doing through the window! Chandler, I saw what you were doing to my sister! Now get out here!
 chandler: Wow! Listen, we had a good run. What was it? Four? Five months? I mean, that's more than most people have in a lifetime! So, good-bye, take care, bye-bye then!
 monica: What are you doing?!
@@ -26945,7 +26945,7 @@ monica: Well I think the length of teasing is directly related to how insane you
 ross: This is fun. Hey Rach, remember that whole "We were on a break thing?" Well, I'm sorry, will you marry me?
 chandler: That's not funny.
 joey: That's not funny at all!   End
-<episode>The One With A Cop
+<episode>0516 : The One With A Cop
 joey: Hey!
 chandler: Hey!
 monica: Hey!
@@ -27195,7 +27195,7 @@ ross: That's what I'm telling you. The Saleswoman: Did you cut this couch in hal
 ross: This couch, is cut in half! I would like to exchange it for one that is not cut in half! The Saleswoman: You're telling me this couch was delivered to you like this?!
 ross: Look, I am a reasonable man. I will accept store credit. The Saleswoman: I'll give you store credit in the amount of four dollars.
 ross: I take it. End
-<episode>The One With Rachel's Inadvertant Kiss
+<episode>0517 : The One With Rachel's Inadvertant Kiss
 rachel: Good, you guys are all here!
 ross: Hey! What's up?
 rachel: Well, I have a job interview at Ralph Lauren tomorrow!
@@ -27398,7 +27398,7 @@ monica: Thank God! I can't watch him anymore!
 chandler: You guys ready fore the movies?
 rachel: Yeah! Oh by the way, thank you for loaning us Pamela and Yasmine.
 ross: Man! They cannot get enough!   End
-<episode>The One Where Rachel Smokes
+<episode>0518 : The One Where Rachel Smokes
 joey: Okay, pick a card.
 chandler: Okay.
 joey: All right now, memorize it.   You got it?
@@ -27669,7 +27669,7 @@ kim: Oh, she doesn't come down here any more. You can find her up on ten.
 chandler: Okay, great.
 kim: and he wondered if one person would be enough
 chandler: I'll catch you guys later.   End
-<episode>The One Where Ross Can't Flirt
+<episode>0519 : The One Where Ross Can't Flirt
 ross: Hey!
 chandler: Hey!
 ross: Wow! You look nice. What's the occasion?
@@ -27965,7 +27965,7 @@ chandler: They look great! Does your boyfriend have the best taste or what?
 monica: My boyfriend really does have good taste!
 chandler: Thanks for picking out the earrings man.
 ross: Hm-mmm. End
-<episode>The One With The Ride Along
+<episode>0520 : The One With The Ride Along
 monica: Okay, guys, listen, don't forget that tomorrow is the day that Emily gets married again, so whatever we do, just try to really keep Ross's mind off of it.
 joey: Oh, yeah, good idea.
 chandler: Hey man, what's up?
@@ -28222,7 +28222,7 @@ ross: I know where Joey would be. He would be down in the foxhole protecting all
 chandler: Yes, if the foxhole was lined with sandwiches.
 joey: Yeah, hero sandwiches.
 phoebe: Well you all know that I'm a pacifist so I'm not interested in war in any way.   Not you Joey.   End
-<episode>The One With The Ball
+<episode>0521 : The One With The Ball
 gary: Would you like some more coffee, baby-doll?
 phoebe: I'm fine, thanks.
 chandler: Yeah, see, I can't pull of baby-doll can I?
@@ -28526,7 +28526,7 @@ rachel: Yeah, it is amazing it lasted that long.
 ross: I know. My arm is killing me.
 rachel: No, I meant with the dropper over here.
 chandler: Y'know, how did I get this reputation as a dropper? Okay? I'm anything but a dropper.   End
-<episode>The One With Joey's Big Break
+<episode>0522 : The One With Joey's Big Break
 ross: What's going on?
 rachel: Well, my eye is a little itchy.
 joey: Uhhh, mine too! Yeah.
@@ -28847,7 +28847,7 @@ monica: Go!!
 rachel: What?!! Stop it! Stop it! Oh my God!
 monica: Okay! Okay! Okay!   We'll see you in about 3 to 4 hours.
 rachel: Oh!   End
-<episode>The One In Vegas 
+<episode>0523 : The One In Vegas
 rachel: Pheebs? Could you get that? Please?
 phoebe: Why? Just 'cause you're too lazy to get up off your touchie?
 rachel: No! No! It's just that all the people in the entire world that I want to talk to are right here.
@@ -29328,7 +29328,7 @@ monica: Are you sure you wanna do this?
 ross: Well, hello, Mrs. Ross!
 rachel: Well, hello, Mr. Rachel!
 rachel: Wait!   Ending Credits
-<episode>The One After Vegas
+<episode>0601 : The One After Vegas
 chandler: Okay!   This is it!   We're gonna get married!
 monica: Are you sure you wanna do this?
 ross: Well, hello, Mrs. Ross!
@@ -29580,7 +29580,7 @@ joey: I can fix it. Hold on.   Look out. Look out.
 chandler: It still doesn’t work.
 joey: I’m not finished.
 chandler: Oh.
-<episode>The One Where Ross Hugs Rachel
+<episode>0602 : The One Where Ross Hugs Rachel
 ross: Hey!
 rachel: Hey, so did everything go okay with the annulment?
 ross: Oh, yeah, no problems. It’s all taken care of.
@@ -29822,7 +29822,7 @@ phoebe: I know. Then, I’m gonna marry Chandler for the money and you’ll marry Ra
 joey: Great!
 phoebe: But then we ditch those two and that’s when we get married. We’ll have Chandler’s money and Rachel’s kids and getting custody will be easy because of Rachel’s drinking problem.
 joey: Oh-oh, what about Ross?
-<episode>The One With Ross’s Denial
+<episode>0603 : The One With Ross’s Denial
 chandler: Hey!
 phoebe: Hey! Check it out! This is unbelievable! Joey has been holding his breath for almost four minutes!
 joey: Dude! What are yo—you trying to kill me?!
@@ -30061,7 +30061,7 @@ joey: Okay now, before I make my final decision I uh, I just want to make sure o
 joey: Okay! Here we go. Pillow. The Potential Roommate: Fight.
 joey: Very good! Okay. G. The Potential Roommate: String?
 joey: Excellent! Okay umm, doggy. The Potential Roommate: Kitten?
-<episode>The One Where Joey Loses His Insurance
+<episode>0604 : The One Where Joey Loses His Insurance
 rachel: So, which of this kitchen stuff is mine?
 monica: This bottle opener.
 rachel: And?
@@ -30284,7 +30284,7 @@ phoebe: Hey!
 joey: Hey-hey-hey!
 chandler: What are you doing?
 phoebe: We’re just celebrating that Joey got his health insurance back.
-<episode>The One With Joey’s Porsche
+<episode>0605 : The One With Joey’s Porsche
 rachel: I cannot believe that you didn’t tell me that we are still married!!
 ross: Look I was going to tell you!
 rachel: When?! After the birth of our first secret child?!   Ross didn’t get the annulment; we are still married.
@@ -30514,7 +30514,7 @@ joey: Hey! Hey! Be careful around my Porsche!
 woman: Hi Joey.
 joey: Hey! How you doin’?
 woman: He has the most amazing Porsche under there!
-<episode>The One The Last Night
+<episode>0606 : The One The Last Night
 chandler: Okay!   Listen, I’m gonna be moving out so you will be in charge of paying the rent.
 joey: Right! And when is that due?
 chandler: First of the month.
@@ -30769,7 +30769,7 @@ chandler: At a fake game!!
 ross: Now, if you wanna try to make some of it back, I’d be glad to play you for it. But I should warn you, I am very good at Cups.
 chandler: Okay! Now I assume the Saucer card came up when you played last.
 ross: No.
-<episode>The One Where Phoebe Runs
+<episode>0607 : The One Where Phoebe Runs
 phoebe: Ready?
 rachel: Yeah.
 phoebe: Okay.
@@ -31014,7 +31014,7 @@ ross: So it said that by the year 2030, there'll be computers that can carry out
 janine: ...and live forever as a machine!
 ross: That's so Janine, you-you-you know what, do you know we're doing right now? You and I, we're interfacing.
 janine: Yeah, I gotta go.
-<episode>The One With Ross's Teeth
+<episode>0608 : The One With Ross’s Teeth
 joey: Hey.
 chandler: Hi, my name’s Chandler. I just moved in next door and I was wondering if you would be interested in battling me in a post-apoplectic world for control of the galaxies last remaining energy source?
 joey: Sure, neighbor come on in.
@@ -31266,7 +31266,7 @@ janine: Sure.
 joey: And a couple of these little tiny boxes.
 janine: Joey? Do you want me to put it all in your room?
 joey: Okay.
-<episode>The One Where Ross Got High
+<episode>0609 : The One Where Ross Got High
 monica: Okay, great!  Bye.   So guess who’s coming to Thanksgiving dinner?
 chandler: Sydney Portier? Hehheh.
 monica: I miss Rachel.   No, my parents.
@@ -31491,7 +31491,7 @@ chandler: I’ll talk to them!  Closing Credits
 rachel: You guys! It was bananas, cream, and beef! I-I just cannot believe that you ate that so that I wouldn’t feel bad!
 monica: Well actually, I-I didn’t eat mine. It’s still in the bathroom.
 joey: No it isn’t, I ate that. Mrs. Geller:   Well we left ours in Monica’s bedroom.
-<episode>The One With The Routine
+<episode>0610 : The One With The Routinue
 chandler: Let me ask you, why is everybody using these tiny lights nowadays? I remember when people used to use big lights.
 rachel: That’s a good story, Grandpa.
 ross: Hey
@@ -31711,7 +31711,7 @@ ross: I don’t know, I mean you were a lot bigger, I mean, stronger back then.
 monica: I can do it, okay? Come on, let’s go.   Monica and Ross: 1, 2, 3, 4, 5, 6, 7, 8
 monica: I can’t do it!
 chandler: Now you do that, you’re on TV.
-<episode>The One With The Apothecary Table
+<episode>0611 : The One With The Apothecary Table
 joey: Hey!
 ross: Hey!
 joey: Listen, do you guys think I have a chance with Janine?
@@ -32000,7 +32000,7 @@ joey: Yeah! Yeah. I’ll be all right.
 ross: Y’know what would cheer you up?
 joey: What?
 ross: I’m giving this lecture on erosion theories tomorrow night, I think you should come.
-<episode>The One With The Joke
+<episode>0612 : The One With The Joke
 ross: Hey, you’re not going to believe this. I made up a joke and sent it in to Playboy. They printed it!
 phoebe: I didn’t know Playboy prints jokes.
 ross: Yeah, they print jokes, interviews, hard-hitting journalism. It’s not just about the pictures.
@@ -32255,7 +32255,7 @@ rachel: Hey. Oh, I have a question. If-if-if one of you had to pick one of the o
 ross: No way.
 joey: I’m not answering that.
 chandler: Joey!   No way. I’m not answering that.  End
-<episode>The One With Rachel’s Sister
+<episode>0613 : The One With Rachel’s Sister
 joey: Okay Rach, that muffin and espresso, $4.50. Ross, double latte, $2.75. Chandler, coffee and a scone, $4.25. And Pheebs, herbal tea, $1.25. So, all together that’s   $12.75.
 chandler: This coming from the man who couldn’t split our 80 dollar phone bill in half.
 woman: Hi!
@@ -32514,7 +32514,7 @@ chandler: He’s taking off her coat!
 rachel: Oh, this is just terrible.
 monica: Oh no it’s not, no it’s not. It’s a first date. I’m sure that nothing is gonna…
 rachel: Oh.
-<episode>The One Where Chandler Can’t Cry
+<episode>0614 : The One Where Chandler Can’t Cry
 joey: Oh, uh, hey Rach. I uh, I was just coming over here to uh… Oh wait, I don’t have to lie to you, you don’t live here anymore. Uh, I’m eating their food. What are you doing?
 rachel: Ross is on a date with my sister and they shut the drapes two and a-half-hours ago.
 joey: Whoa, I didn’t know we could date your sister!
@@ -32755,7 +32755,7 @@ ross: You take care Jill.
 jill: Okay, see ya!
 rachel: Bye-bye-e!
 monica: Bye.
-<episode>The One That Could Have Been
+<episode>0616 : The One That Could Have Been
 rachel: Hey, you guys! Guess what? Barry and Mindy are getting a divorce!
 monica: Oh my God!
 phoebe: Wow!
@@ -33277,7 +33277,7 @@ chandler: No, there were two.
 monica: Including me?
 chandler: Oh yeah. Ending Credits
 phoebe: 
-<episode>The One With The Unagi
+<episode>0617 : The One With The Unagi
 ross: Hey, remember when I had a monkey?
 chandler: Yeah.
 ross: Yeah, what, what was I thinking?
@@ -33495,7 +33495,7 @@ phoebe: Why is Ross doing that?
 ross: DANGER!!!!
 rachel: Oh my God! Why is he jumping on those women!
 phoebe: We should help him!
-<episode>The One Where Ross Dates A Student
+<episode>0618 : The One Where Ross Dates A Student
 ross: Hey! I just got uh, my teacher evaluations! Check out what this one student wrote, "I loved Dr. Geller’s class. Mind blowing lectures! Dr. Geller, you are definitely the hottie of the paleontology department!"
 chandler: Ahh, Hotties of the Paleontology Department, there’s a big selling calendar, eh?
 rachel: Who wrote it?
@@ -33764,7 +33764,7 @@ joey: Hey!
 chandler: So?!
 joey: So?
 chandler: It’s Thursday! How was the audition?!
-<episode>The One With Joey’s Fridge
+<episode>0619 : The One With Joey’s Fridge
 joey: Well that thing is clearing in the way! All right. Ah-ha!   Ah-ah!! Damn fridge!
 rachel: Hi Joey, how ya doin’?
 joey: Great! Roomie!
@@ -34075,7 +34075,7 @@ rachel: Huh. All right.
 phoebe: Oh my God, look! That’s Elizabeth!
 rachel: Oh-oh Professor Geller.
 joey: Ahh, to be 13 again.
-<episode>The One With Mac and C.H.E.E.S.E.
+<episode>0620 : The One With Mac and C.H.E.E.S.E. 
 joey: The reactor’s gonna blow in three seconds, we’re never gonna make it!
 phoebe: You’ve got to get out of here! Save yourself!
 joey: No! I won’t leave you!
@@ -34310,7 +34310,7 @@ phoebe: Yeah?
 ross: Oh my God. I mean…
 joey: Y’know what? I think that’s enough for today. Thanks for your help!
 phoebe: He’s holding us back.
-<episode>The One Where Ross Meets Elizabeth’s Dad
+<episode>0621 : The One Where Ross Meets Elizabeth’s Dad
 rachel: Okay, Chandler!
 chandler: Okay.
 rachel: And your horoscope says, "On the fifth a special someone is going to give you a gift."
@@ -34582,7 +34582,7 @@ rachel: Wait-wait-wait, I just thought of another story about how nice Ross is!
 ross: That’s okay Rach, we’re not liking Ross right now.
 rachel: Oh! I’ve got a lot of those too! Ending Credits
 joey: Well, it turns out you were right C.H.E.E.S.E. C.H.E.E.S.E.: The shipment never made it through Omaha?
-<episode>The One Where Paul’s The Man
+<episode>0622 : The One Where Paul’s The Man
 phoebe: Hi, you guys.
 chandler: Hey!
 monica: Hi!
@@ -34817,7 +34817,7 @@ joey: Oh uh, well I just came in for a cup of coffee to go.
 gunther: Do you still work here?
 joey: No! No, I quit a long time ago.   Did I forget to you that one? I’m sorry.
 gunther: Oh that’s cool, I was gonna fire you anyway.
-<episode>The One With The Ring
+<episode>0623 : The One With The Ring
 chandler: Pheebs, can you help me pick out an engagement ring for Monica? I can’t figure this out! It’s so hard! Should I get her a   Tiffany cut or a Princess cut or a—ah-ah! Paper cut!
 phoebe: Now, have you told anyone else?
 chandler: No, I don’t want to tell anybody else because I don’t want Monica to find out.
@@ -35065,7 +35065,7 @@ phoebe: What?
 ross: Chandler’s gonna ask Monica to marry him!
 phoebe: Oh I know, I helped pick out the ring.
 ross: You told her before you told us?
-<episode>The One With The Proposal
+<episode>0624 : The One With The Proposal
 ross: God that is the most beautiful engagement ring ever!
 rachel: Yeah? Well, you should know. You’ve bought like a billion of ‘em.
 ross: Yeah, you didn’t get one.
@@ -35591,7 +35591,7 @@ rachel: Ohhh, this is the least jealous I’ve ever been!
 phoebe: Oh no wait no, this is wrong! Ross isn’t here!
 monica: Oh…
 rachel: Oh hell, he’s done this three times! He knows what its about!
-<episode>The One With Monica’s Thunder
+<episode>0701 : The One With Monica’s Thunder
 ross: Hey, what’s going on?
 chandler: Hey.
 ross: I found a note on my door, "Come to Monica’s quick, bring champagne and a Three Musketeers bar."
@@ -35853,7 +35853,7 @@ phoebe:
 chandler: Hey! Here’s a dollar, consider it a deposit. Please sing at our wedding.
 phoebe: Oh thank you.
 chandler: Okay.
-<episode>The One With Rachel’s Book
+<episode>0702 : The One With Rachel’s Book
 joey: Hey!
 ross: Hi!
 joey: Who wants French toast?
@@ -36064,7 +36064,7 @@ joey: This body?
 rachel: Yeah that’s right! Come on Joey; sex me up!
 joey: Hey-hey, you’re startin’ to sound like the butcher’s wife there in-in chapter seven.
 rachel: Oh, come on now, don’t keep me waiting. Get those clothes off! But, I would keep that helmet on because you’re in for a rough ride!
-<episode>The One With Phoebe’s Cookies
+<episode>0703 : The One With Phoebe’s Cookies
 chandler: Hey, you guys!
 rachel: Hey!
 chandler: So, what do you think?
@@ -36321,7 +36321,7 @@ joey: What are you doing?
 rachel: Ohh, sorry.
 joey: What you—don’t hold it like that! You’re lettin’ all the good stuff fall out.
 rachel: Ohh whoops.
-<episode>The One With Rachel’s Assistant
+<episode>0704 : The One With Rachel’s Assistant
 mac: Well, if we learned one thing today C.H.E.E.S.E. is that cheerleaders and high explosives don’t mix.   C.H.E.E.S.E: You can say that again Mac.
 mac: Well, I couldn’t have done it without you buddy. You’re a genius. C.H.E.E.S.E: Oh yeah? Well then how come I can’t get my VCR to stop blinking 12:00?
 joey: So, what did you guys think?
@@ -36586,7 +36586,7 @@ rachel: ‘Kay.
 tag: Well…
 rachel: Yeah.
 tag: I’d love to ask out your friend Phoebe.
-<episode>The One With The Engagement Picture
+<episode>0705 : The One With The Engagement Picture
 chandler: Hey.
 monica: What’s the matter?
 chandler: Someone on the subway licked my neck! Licked my neck!!
@@ -36863,7 +36863,7 @@ chandler: Okay.
 monica: Wow! Imagine what our kids would look like!
 joey: Y’know, we don’t have to imagine.
 chandler: I’m marrying her.
-<episode>The One With The Nap Partners
+<episode>0706 : The One With The Nap Partners
 monica: Okay, the reason why I asked you guys out to brunch today is because I have been doing some thinking about who should be my maid of honor.
 rachel: Oh my God! This is it!     I really hope it’s you!
 phoebe: I hope it’s you.
@@ -37114,7 +37114,7 @@ rachel: Yeah okay, you laugh now, but she’s gonna be yours.   Ending Credits
 joey: Great nap.
 ross: It really was.
 joey: Dude! What the hell are you doing?! God!
-<episode>The One With Ross’s Book
+<episode>0707 : The One With Ross’s Book
 joey: Morning!
 rachel: Hi! Oh, how was your date last night?
 joey: Pretty good.
@@ -37365,7 +37365,7 @@ chandler: Feelings, such strong feelings.
 monica: I mean, I realize that his feelings may never completely go away, but you can.
 janice: Oh…my Gawd, I-I understand. I-I am so sorry, I’ll go.   you call me when this goes in the pooper.   Ending Credits
 ross: —Okay, see you later.
-<episode>The One Where Chandler Doesn’t Like Dogs
+<episode>0708 : The One Where Chandler Doesn’t Like Dogs
 ross: Hey everybody! Happy Thanksgiving!
 chandler: No, no, no. No-no-no.
 phoebe: Shhhh!
@@ -37620,7 +37620,7 @@ chandler: All right.
 ross: I want my turkey now!
 chandler: You got it.   You got Nevada twice.
 ross: I know.
-<episode>The One With All The Candy
+<episode>0709 : The One With All The Candy
 ben: I’m ready!
 ross: You sure?
 ben: Uh-huh!
@@ -37860,7 +37860,7 @@ monica: I’m fine now, but it was really scary there for a while. I mean, someone
 joey: Oh yeah, sorry about that. Mob mentality or whatever, I don’t know…   Ending Credits
 phoebe: I can’t believe it! I did it! I rode a bike! I never thought I’d be able to do that! Thank you Ross.
 ross: Oh hey, don’t thank me, thank yourself. You’re the one who faced her fears and ultimately overcame them.
-<episode>The One With the Holiday Armadillo
+<episode>0710 : The One With the Holiday Armadillo
 chandler: Buh-bye.   I just got us reservations at Michelle’s and tickets to the Musicman to celebrate our first holiday season as a betroughed couple.
 monica: Betrothed…
 chandler: …betrothed couple.
@@ -38106,7 +38106,7 @@ rachel: I got it!
 joey: Is it back in the cage?
 rachel: Its back in cage!
 joey: Cage closed?
-<episode>The One With All The Cheesecake 
+<episode>0711 : The One With All The Cheesecakes
 chandler: Ohh. Mmm.
 rachel: Hi.
 chandler: Hey, you have got to try this cheesecake.
@@ -38363,7 +38363,7 @@ joey: All right, what are we havin’?   Ending Credits
 monica: Oh wait I forgot my wrap.
 ross: What? Oh, okay. Wait here.   Aunt Millie: Hi sweetie! Are you leaving?
 ross: Well… Aunt Millie: Give us a kiss. Come on! Come on!
-<episode>The One Where They’re Up All Night
+<episode>0712 : The One Where They’re Up All Night
 monica: Ross, when’s this comet thing start?
 ross: Well, technically it seven billion years ago…
 all: Oh no! Oh no!
@@ -38555,7 +38555,7 @@ monica: I have to be up in seven minutes.
 chandler: Well, you’re not gonna believe this, but if you have seven minutes…
 monica: Really?!
 chandler: Do you wanna?
-<episode>The One Where Rosita Dies
+<episode>0713 : The One Where Rosita Dies
 joey: Hey.
 rachel: Hey.
 joey: What are you doing?
@@ -38824,7 +38824,7 @@ rachel: Hey!
 joey: Hey!
 monica: Do you guys know what happened to Chandler’s barca lounger?
 rachel: Oh yeah, Joey broke it. Had to get rid of it.
-<episode>The One Where They All Turn Thirty
+<episode>0714 : The One Where They All Turn Thirty
 ross: Happy birthday!!!
 monica: Happy birthday!!!
 all: Rach! Come on! Rach!
@@ -39065,7 +39065,7 @@ ross: Yes! My baby’s finally free!
 joey: All-all right!   Start it up! Let’s go!
 ross: 
 ross: You wanna buy a car?
-<episode>The One With Joey’s New Brain
+<episode>0715 : The One With Joey’s New Brain
 monica: I’m glad you’re here, we have a couple of things to ask you about the wedding ceremony.
 rachel: Ohh…
 ross: What’s the matter? You okay?
@@ -39374,7 +39374,7 @@ cecilia: That is a tricky one. Well, Joey I really wanna thank you. You’ve, well
 joey: Good luck.
 cecilia: You too.   Ending Credits
 ross: You know the song! Sing along!
-<episode>The One With The Truth About London
+<episode>0716 : The One With The Truth About London
 ross: Hi.
 rachel: Hi! Hi Ben!
 ben: Hi.
@@ -39730,7 +39730,7 @@ monica: Okay, in we go.   Fat Joey: Here we go! Here we go! Here we go!   How yo
 joey: Here you go.
 phoebe: Oh my God! This is a six-hour pill!   That’s it! I’m out of the woods! Ohh! What a relief!
 joey: Good for you!
-<episode>The One With The Cheap Wedding Dress
+<episode>0717 : The One With The Cheap Wedding Dress
 monica: So the wedding caterer sent me this list of twelve appetizers and I have to narrow it down to six.
 joey: Food? Uh-huh gimme!
 chandler: So did Monica tell you about this great band called the Swing Kings that we’re trying to get to play at the wedding?
@@ -40011,7 +40011,7 @@ chandler: I thought you were gonna be gone all day.
 monica: All right? What’s going on?
 monica: I’m sorry. I’m sorry. I-I should probably leave you girls alone.
 ross: Yeah, laugh all you want but in ten minutes we’re gonna have younger looking skin!
-<episode>The One With Joey’s Award
+<episode>0718 : The One With Joey’s Award
 joey: Hey! You guys! You’re not gonna believe this! I just got off the phone with my agent…
 phoebe: Oh my God!   I’m sorry, too soon. You go.
 joey: Okay. I got nominated for my part on Days of Our Lives!
@@ -40226,7 +40226,7 @@ rachel: Honey, we have to go. Our reservations are at 8:00.
 phoebe: …in Reservations at 8:00 by Neil Simon.   Thank-thank you Neil. Thank you for the words.
 rachel: Okay honey, you can finish this later we’re gonna be late. We gotta go.
 phoebe: Please, don’t play the music. Just uh one more. LIVE FROM NEW YORK! IT’S SATURDAY NIGHT!!
-<episode>The One With Ross and Monica’s Cousin
+<episode>0719 : The One With Ross and Monica’s Cousin
 phoebe: Oh hey! How was your audition?
 joey: I’m sorry, do I know you?
 phoebe: What are you doing?
@@ -40471,7 +40471,7 @@ cassie: Yeah! Thank you so much for letting me stay here.
 phoebe: Oh! No problem! I…
 cassie: What?
 phoebe: Say something! Say anything! Ask her out! She’s not your cousin!
-<episode>The One With Rachel’s Big Kiss
+<episode>0720 : The One With Rachel’s Big Kiss
 rachel: Hey! Out of all of us, who do you think is gonna get married next?
 joey: Probably Monica and Chandler.
 woman: Hi. Could I have a pack of Newport Lights, please?
@@ -40730,7 +40730,7 @@ rachel: Oh does it matter?! All that matters is that you look so handsome.
 chandler: Whose is it?
 rachel: I don’t want to say.
 chandler: Oh, come on! I don’t care! Come on! Whose is it?
-<episode>The One With The Vows
+<episode>0721 : The One With The Vows
 monica: Do you realize that four weeks from today we’re getting married? Four weeks baby!! Four weeks!!!
 chandler: Do you realize you get louder each week?
 monica: There’s still so much to do. Have you written your vows yet?
@@ -40985,7 +40985,7 @@ chandler: You really like it?
 ross: Dude! How-how did you write this?
 chandler: I stole Monica’s and changed the name.
 ross: You can’t do that!
-<episode>The One With Chandler’s Dad
+<episode>0722 : The One With Chandler’s Dad
 ross: Hey!
 monica: Hey!
 ross: Hey uh Mon, I saw the Porsche parked out front, can I get the keys? Thought I’d take that bad boy out for a little spin.
@@ -41253,7 +41253,7 @@ joey: Yeah.
 woman: Really?!
 joey: Hm-mmm.
 waitress: $4.50 please.
-<episode>The One With Chandler and Monica’s Wedding
+<episode>0723 : The One With Chandler and Monica’s Wedding
 monica: Do you realize this is probably the last time we’ll all be here in the coffee house as six single people?
 phoebe: Why?! What’s happening to the coffee house?!   Oh!
 chandler: Yep! From now on its gonna be the four of you guys and me and the misses. The little woman. The wife. The old ball and chain.
@@ -41705,7 +41705,7 @@ chandler: Phoebe found your pregnancy test in the trash.
 monica: I didn’t take a pregnancy test.
 chandler: Then…who did?
 phoebe: Oh and they’re gonna have a baby.
-<episode>The One After "I Do"
+<episode>0801 : The One After "I Do"
 photographer: Great.   Great! Just give me a sec to change film.
 monica: Okay.
 ross: Okay, I know I’m not supposed to know, but I do. And I’m so excited for you!
@@ -41960,7 +41960,7 @@ mona: No, I mean it. There are so few genuinely nice guys out there.
 joey: Tell me about it, I feel like I’m holding down the fort all by myself.
 mona: It’s Joey right?
 joey: Yeah.
-<episode>The One With The Red Sweater
+<episode>0802 : The One With The Red Sweater
 rachel: Listen y’know what sir? For the last time, I don’t care what the computer says, we did not take a bag of Mashuga nuts from the mini-bar and we did not watch Dr. Do-Me-A-Little!
 joey: Hey!
 phoebe: Oh! Joey uh, were you in our room last night?
@@ -42220,7 +42220,7 @@ ross: Yeah. She—Well, she’s one crazy lady?
 tag: So whose is it?
 ross: Umm, I don’t some Italian guy. Come on, read your own label. See you later.
 tag: Okay.
-<episode>The One Where Rachel Tells...
+<episode>0803 : The One Where Rachel Tells…
 chandler: Hey! Babe! Aren’t you excited we’re going on our honeymoon?
 monica: Yeah I am!
 chandler: Bermuda, Bahama, come on pretty mama…
@@ -42473,7 +42473,7 @@ ross: Oh hey, show them the picture of your uterus.
 phoebe: Oh.
 joey: I don’t see the baby. Where is it?
 rachel: Oh no, I know I couldn’t see it either at first, but it’s right umm…   Ross, I lost it again.
-<episode>The One With The Videotape
+<episode>0804 : The One With The Videotape
 chandler: Wait. Before we go in, I just want you to know I love you. I had a great time on our honeymoon, and I can’t wait to go in there and spend the rest of our life together.
 monica: You’re really sticking with the shell necklace huh?
 phoebe: Hi!
@@ -42741,7 +42741,7 @@ rachel: Have to make it stop!!
 ross: No!!!   Closing Credits
 monica: That is their old number! Jenny’s been giving it out since they moved!
 chandler: Jenny! That is so Jenny!
-<episode>The One With Rachel's Date
+<episode>0805 : The One With Rachel’s Date
 monica: Okay, now this one is rare, this one is medium well! Now go-go-go!   Hey Phoebe!
 phoebe: Hey!
 monica: Hey how was dinner?!
@@ -43023,7 +43023,7 @@ mona: I think I might need one more cup of coffee.
 ross: Sure! Uh, let me get it for ya.
 mona: Okay.   Dedicated to the Memory of Richard L. Cox, Sr. Closing Credits
 chandler: Bob. Bob! Bob!!!   What the hell are you doing?!
-<episode>The One With The Halloween Party
+<episode>0806 : The One With The Halloween Party
 monica: Hey you guys?
 ross: What?
 monica: I know it’s last minute, but we decided to have a Halloween party.
@@ -43312,7 +43312,7 @@ chandler: I am strong! I’ll show you!
 monica: Chandler please!
 chandler: Oh what’s the matter? Are you scared?
 monica: Let’s go big bunny!
-<episode>The One With The Stain
+<episode>0807 : The One With The Stain
 monica: Hey.
 chandler: Hey.
 monica: Oh my God! You cleaned!   Look at these floors! You did the windows! Oh, I have been begging you for months and you did! You cleaned! And nagging works!
@@ -43570,7 +43570,7 @@ joey: Ooh! Ah! Okay!   Dedicated to the Memory of Pearl Harmon Closing Credits
 ross: Well, the old lady died. And how do I know? Her dying wish was for one last kiss. But I don’t care,   because you got the apartment. Yes!
 rachel: Ewww. Yeah. Umm. I think I’m gonna stay here.
 joey: Isn’t that great?
-<episode>The One With The Stripper
+<episode>0808 : The One With The Stripper
 rachel: Hey Pheebs?
 phoebe: Huh?
 rachel: I’m having dinner with my dad tomorrow night, do you wanna come?
@@ -43803,7 +43803,7 @@ phoebe: Wow, you told your dad the truth.
 rachel: About an hour ago.
 phoebe: Wanna go see a movie?
 rachel: Yes!   …there’s gonna be a wedding!
-<episode>The One With The Rumor
+<episode>0809 : The One With The Rumor
 joey: Hey Rach listen, did you know that during pregnancy your fingers swell up to twice their size and never go back.
 rachel: Oh my…God! Let me see that!
 joey: You fall for it every time!
@@ -44074,7 +44074,7 @@ joey: No just, nobody press on my stomach.
 rachel: You can keep those pants by the way.
 joey: Whoa—hey—wh-wh-what do you got there? What is that? Pie?
 monica: Yeah, you want some?
-<episode>The One With Monica’s Boots
+<episode>0810 : The One With Monica’s Boots
 monica: Hey! So what do you think?
 chandler: New haircut?   Boots?   Boots!
 monica: Yes! Now, they’re a little more than I normally spend on boots…or rent
@@ -44330,7 +44330,7 @@ phoebe: Oo, where are the seats?
 ross: Uh, middle balcony.
 phoebe: Okay, now would you say that that’s more than 50 yards away from Sting, his wife, or a member of his family?
 ross: Yeah.
-<episode>The One With Ross' Big Step Forward
+<episode>0811 : The One With Ross’ Big Step Forward
 rachel: Phoebe?
 phoebe: Yeah?
 rachel: Look at that guy by the window, wow!
@@ -44558,7 +44558,7 @@ rachel: Never happened! Good night!
 joey: Good night! 
 joey: Get back in there!   Closing Credits
 phoebe: Hi. Listen, I’m sorry about that whole thing with Roger. It really
-<episode>The One Where Joey Dates Rachel
+<episode>0812 : The One Where Joey Dates Rachel
 phoebe: Hey! I got you a present!!
 chandler: Oh my goodness! Where did you hide it?
 phoebe: I got it for your wedding and I ordered it weeks ago, and it finally got
@@ -44784,7 +44784,7 @@ joey: All right, I know! I know. Yeah, it’ll be okay.
 rachel: Oh my God….What’s he gonna do now? I can’t watch! 
 joey: Terrified.   Closing Credits [Scene: N.Y.U, Ross’s new class, this time he’s actually about to do a
 ross: So is everybody here? I got here a little early myself. Let us begin. Now,
-<episode>The One Where Chandler Takes a Bath
+<episode>0813 : The One Where Chandler Takes a Bath
 from: Dan Gottleib
 joey: All right. It’s a new day. All that stuff about
 rachel: Hi, sweetie.
@@ -45058,7 +45058,7 @@ monica: I’m not touching you.
 chandler: You’re not?
 monica: It’s the salts.
 chandler: Oh, sweet Lord. New realms of pleasure!
-<episode>The One With The Secret Closet
+<episode>0814 : The One With The Secret Closet
 monica: Hey, what’s up?
 phoebe: Well, I left my guitar here again.
 monica: Oh, okay. No problem.
@@ -45312,7 +45312,7 @@ monica: Oh yeah right there!
 phoebe: You want it there? You take it there baby!
 monica: Uh Phoebe?
 phoebe: Yeah, say my name. Say it!   And now I’m going to cover you back up, and umm we’re never doing this again. End
-<episode>The One With The Birthing Video
+<episode>0815 : The One With The Birthing Video
 phoebe: Oh! Hey, Rach!
 rachel: Hi! Hey, Happy Valentine’s Day!
 phoebe: Oh, you, too.
@@ -45549,7 +45549,7 @@ rachel: You’re going to have a baby, and you need to be prepared. Now, you’re go
 tv: I came to the big city to become a star! I’ll do…anything to make that happen!
 tv: Anything?
 rachel: Hmm…maybe it starts with how she gets pregnant.
-<episode>The One Where Joey Tells Rachel
+<episode>0816 : The One Where Joey Tells Rachel
 kudrow: Previously on Friends
 joey: There’s this woman, that I like.  A lot.  Well, it’s complicated.  She’s with this other guy.  For a long time.  And I could never do that to the guy, y’know?  ’Ccause we’re really good friends.
 ross: So, uh, this guy, she used to go out with, is, uh… is he a good guy?
@@ -45771,7 +45771,7 @@ joey: Oh no-no Rach, please, don’t be sorry. Okay? Don’t be sorry.   Y’know I wa
 rachel: Yeah, that was a real good one. Closing Credits   Waiter No. 2: Is this your table?
 waiter: Yeah. Waiter No. 2: God, you’re gonna be here all night!
 waiter: I know! I haven’t even read them the specials yet! Waiter No. 2: What’s the matter with them?
-<episode>The One With The Tea Leaves
+<episode>0817 : The One With The Tea Leaves
 rachel: Joey? Are you in there?
 joey: Oh God! That’s Rachel!
 monica: Joey, you have to talk to her!
@@ -45986,7 +45986,7 @@ ross: You do?
 mona: Yeah, you still have feelings for me. And-and to be honest, I-I still have feelings for you. And I wish that we can work it out Ross, but we can’t. It’s too complicated with you and Rachel and the baby, I-I just… It just wasn’t meant to be.
 ross: Oh God you’re right.
 mona: Ross, we…we have to be strong. Okay, I-I’m gonna go.   Can I? To remember you?
-<episode>The One In Massapequa
+<episode>0818 : The One In Massapequa
 phoebe: Oh, Ross, Mon, is it okay if I bring someone to your parent’s anniversary party?
 monica: Yeah.
 ross: Sure. Yeah.
@@ -46201,7 +46201,7 @@ monica: Okay that’s it. I give up. At mom and dad’s 40th anniversary, you’re the
 ross: Y’know I don’t understand why they didn’t cry. It was a beautiful speech.
 monica: Oh, come on.
 ross: Hey! All that stuff you said about true love, you were right, I mean, we did learn a lot from Mom and Dad! And that picture of Chi-Chi with her mischievous grin. And what you said about Nana. Ohh, yeah she really would’ve wanted to be there. And you know what? I think she was.
-<episode>The One With Joey’s Interview
+<episode>0819 : The One With Joey’s Interview
 rachel: Hi!
 ross: Hey!
 monica: Hey!
@@ -46415,7 +46415,7 @@ joey: Little bit, yeah.
 ross: Wow! This picture of you sure is steamy.
 joey: Oh yeah, that’s just a little something for my huge gay fan base.
 ross: Did you just wink at me?
-<episode>The One With The Baby Shower
+<episode>0820 : The One With The Baby Shower
 rachel: Hi!
 monica: Hey!
 phoebe: Hey!
@@ -46670,7 +46670,7 @@ ross: That’s correct! This is an audio question, what do you do when the baby ma
 rachel: Check if it’s wet, check if it’s hungry, burp it!
 ross: Excellent! Excellent, now-now do you want another question or a Wicked Wango card?
 rachel: A card! A card! I pick a card!
-<episode>The One With The Cooking Class
+<episode>0821 : The One With The Cooking Class
 ross: Hey you guys I got some bad news.
 phoebe: Well that’s no way to sell newspapers. Why don’t you try, "Extra! Extra! Read all about it!"
 ross: No, Monica’s restaurant got a horrible review in the Post.   I didn’t want her to see it, so I ran around the neighborhood and bought all the copies I could find.
@@ -46903,7 +46903,7 @@ joey: Well I had a great time! Learned how to bake, ate great food, that’s the f
 monica: Oh, look! Acting for Beginners! Want to feel good about yourself?
 joey: What the hell!
 monica: Okay.   The Acting Teacher: All right, let’s start with some basics. Can anybody tell me what the difference between upstage and downstage is?
-<episode>The One Where Rachel Is Late
+<episode>0822 : The One Where Rachel Is Late
 ross: Hey! What are you guys looking at?
 joey: Oh, it’s a poster for that World War I movie that I’m in, check it out.
 ross: Yeah? Wow! It looks really violent!
@@ -47128,7 +47128,7 @@ monica: How did you know that?!   Joey! Chandler!! It’s time!
 phoebe: They’re at the coffeehouse.
 monica: You know everything!! Oh wait, double or nothing. I bet you the baby is over seven pounds.   I bet you it has hair.   I bet you it’s a girl.
 phoebe: We know it’s a girl!
-<episode>The One Where Rachel Has A Baby
+<episode>0823 : The One Where Rachel Has A Baby
 ross: All right!   Yes!! From home to the hospital in under seven minutes! We did it!!
 rachel: Yes, the hard part is truly over.
 ross: No, but come on, we’re off to a great start aren’t we? I knew I’d get you here fast, but this has got to be some kind of a record!
@@ -47618,7 +47618,7 @@ joey: Sure.
 rachel: Okay.
 joey: My God.
 rachel: Joey.
-<episode>The One Where No One Proposes
+<episode>0901 : The One Where No One Proposes
 rachel: Joey.
 rachel: 
 rachel: So uh…I guess we should…make it official huh?
@@ -47882,7 +47882,7 @@ ross: And you told Phoebe you were engaged.
 rachel: I’m sorry, what?
 ross: When you thought Joey proposed did…did you say yes? Closing Credits   Mr. Geller: Kids, I spoke to a doctor and picked up this pamphlets on how to get pregnant.
 monica: Hey dad!
-<episode>The One Where Emma Cries
+<episode>0902 : The One Where Emma Cries
 ross: You said you’d marry Joey?
 rachel: Okay you have to realize, I was exhausted, I was emotional, I would have said yes to anybody. Like that time you and I got married!   I’m not helping.
 ross: So you said yes to him, and you just had our baby?
@@ -48131,7 +48131,7 @@ rachel: No its really okay… Monica!
 monica: Got it! Got it! Got it! Got it! Got it! Got it! Closing Credits
 joey: You know, ah, I’ve been thinking about this and I gotta tell ya, it’s not my fault. It’s a natural instinct.
 chandler: Hey, what you guys talking about?
-<episode>903 - The One With The Pediatrician
+<episode>0903 : The One with the pediatrician
 rachel: Hi!
 ross: Hey! So what's the big news you had us rush all the   way over here for?
 chandler: Okay, our news. My company has asked me to head   up our office in Tulsa , so as of Monday I'm being officially relocated.
@@ -48394,7 +48394,7 @@ joey: Double promise? Call me   when you land.
 monica: Can I talk now?
 joey: Okay, bye.
 monica: Joey?
-<episode>904 - The One With The Sharks
+<episode>0904 : The One with the sharks
 phoebe: Oh hey Ross oh I'm so glad someone's here could   you zip me up?
 ross: sure.
 phoebe: Thank you. Can you believe no-one between my apartment   and here offered to do that for me?
@@ -48578,7 +48578,7 @@ monica: : I cannot tell you how happy that makes me!
 chandler: You are an amazing wife.   No really   you're amazing you were actually gonna do this for me, I mean where do you   find the strength and understanding over something like that.
 monica: : Im very, very drunk right now.
 joey: see ordinarily I would talk   to her, but my confidence is shaken did I sleep with her? Did I not sleep with   her?  Phoebe: you know maybe this is a wake up call, about your     whole dating attitude. Your in your thirty's and you've never had a serious     relationship and you have never been in a long term relationship, here you     go from woman to woman, meaningless experience to meaningless experience     never even worrying that it doesn't tern into anything serious.
-<episode>905 - The One With Phoebe’s Birthday Dinner
+<episode>0905 : The One with phoebe’s birthday dinner
 phoebe: Oh hey you guys, I couldn’t get a reservation for the night of  my birthday, so we have to do dinner Thursday night instead.
 joey: Thursday? But that’s Halloween.
 phoebe: So?
@@ -48824,7 +48824,7 @@ waiter: Well, I hope, you got some room left.
 waiters: Happy birthday to you, happy  birthday to you, happy birthday dear …
 joey: Joey! Joey.
 waiters: … Joey, happy birthday to you.
-<episode>Untitled Document
+<episode>0906 : The One with the male nanny (200th episode)
 chandler: Hello?   Hello?
 monica: I LOVE MY NEW JOB!
 chandler: Honey, you're screaming.
@@ -49133,7 +49133,7 @@ joey: Wow! You blow my mind...
 sandy: Oh, I gotta go.
 joey: Aaahh... How much do I owe you?
 sandy: Twenty bucks.
-<episode>The One With Ross's Inappropriate Song
+<episode>0907 : The One with ross's inappropriate song
 ross: And that's why, no matter what mommy says, we really    were on a break.   Oh! Look at you! You    are the cutest little baby ever! You're just a... a little bitty baby, you know    that? But you've got...   I like big butts and I cannot lie / you other    brothers can't deny / when a girl walks in with an itty, bitty, waist / and    a round thing in your face you get...     I'm a terrible father! OPENING CREDITS
 chandler: Hi!
 joey: Hey... hey listen... What do you guys know about investments?
@@ -49350,7 +49350,7 @@ ross: Shake it!
 rachel: Shake that nasty butt...
 ross: Baby got back
 rachel: One more time from the top... I like big butts    and I cannot lie, you other br...
-<episode>908 - The One With Rachel's Other Sister
+<episode>0908 : The One with rachel's other sister 
 monica: Hey Hon, could you help me get the plates down?
 chandler: Yeah. Hey, here's an idea, why don't we use our   wedding china today?
 monica: No, I think we should save our china for something   really special. Like if the Queen of England comes over.
@@ -49589,7 +49589,7 @@ monica: Bye plates!
 joey: Oh, you told her you broke all the plates, huh?
 monica: What? Something happened with the plates?
 joey: Uhm...   Yeah... this uhm... raccoon came   in...
-<episode>FRIENDS
+<episode>0909 : The One With Rachel's Phone Number
 chandler: Yep.  That's a lot of cats Jo Lynn.  Single are ya?
 chandler: Chandler Bing.
 joey: Hey.  How come you're answering your own phone?  Where's your crazy assistant?
@@ -49862,7 +49862,7 @@ ross: Never    mind.
 ross: Hey you guys.
 mike: Hey.
 phoebe: Hey.  I'll be right back.  I've got to go to the bathroom.
-<episode>Friends 910 - The One With Christmas In Tulsa
+<episode>0910 : The One with christmas in tulsa
 aired: 12/12/2002 Written by: Doty Abrams Directed by: Kevin S. Bright Transcribed by: Stephan Hoffmeister
 phoebe: ...sprang to his sleigh, to his team gave a whistle;and away they all flew like the down of a thistle; but I heard him exclaim, ere he drove out of sight, "Merry Christmas to all, and to all a goodnight!"
 joey: Wow, that was great! You really wrote that?
@@ -50143,7 +50143,7 @@ chandler: I... thought it was a timely start to thinking about other people. Bes
 joey: Mine's is to Lilian Myers.
 chandler: I don't have a *job*! *Closing Credits*
 chandler: Actuary... no. Book-keeper... no. Topless dancer...     Hey, d'you know what I just realized? You are the sole wage earner. *You* are the head of the household. I don't do anything - I'm a kept man!
-<episode>FRIENDS - THE ONE WHERE RACHEL GOES BACK TO WORK
+<episode>0911 : The One Where Rachel Goes Back To Work
 chandler: Hey!
 monica: Good morning, Tiger! I'm making you a nice big breakfast so you can keep up your strength for tonight.  You're gonna get me good and pregnant.
 chandler: I've got nowhere to go this morning. I'm unemployed! I don't know what I'm gonna do with my life.
@@ -50370,7 +50370,7 @@ monica: Yes, please!
 chandler: Oh, and I promise, I will not fake it this time.
 monica: I wish I could say the same. I'm a little shook up!    Joey/Drake: I know you botched that operation on purpose. I can't prove it yet, but when I do, you'll be going to jail for murder.  I don't care if you are my brother.
 man: I'm not your brother. Phoebe/Waitress: What about my children Drake?! Huh!?   No!! No!! No! God!
-<episode>Untitled Document
+<episode>0912 : The One With Phoebe's Rats
 aired: 16/1/2003   Teleplay by: Brian Buckner and Sebastian Jones   Directed by: Ben Weiss   Transcribed by: Roni Raab
 chandler: Hey
 joey: Hey. So where's Mon?
@@ -50615,7 +50615,7 @@ chandler: Oh, well someone left this  . This is yours?
 phoebe: No, but I like it. I think I left one of    my rat babies.
 chandler: Oh, uh, well, I haven't seem it but if I do I'll let you know.
 monica: Ohmygod! Rat baby! Rat baby! Rat baby!
-<episode>913 - The One Where Monica Sings
+<episode>0913 : The One Where Monica Sings
 aired: 30/01/2003 Written by: Sherry Bilsing-Graham & Ellen Plummer Teleplay by: Steven Rosenhaus Transcribed by: PHDB   and Sebastiano
 chandler: Hey!
 ross: Yeah! Yeah! OK! Sure! Look! Can we...can we talk about what  happened here last night?
@@ -50904,7 +50904,7 @@ rachel: Hi. Can Emma and I live here for a while?
 joey: Ha, oh, of course.
 rachel: Thank you.
 joey: Your eyebrows look weird.
-<episode>914 The One With the Blind Dates
+<episode>0914 : The One with the blind dates
 joey: Morning, roomie!
 rachel: Hey! You remembered to put clothes on this morning.
 joey: Fifth day's a charm.
@@ -51163,7 +51163,7 @@ joey: I know, I'm so bummed. Can we have our free crab cakes now?
 waiter: What?
 joey: We've been stood up.   And we want our free crab cakes.
 waiter: Guys, give it a rest. Nobody's betting on you tonight. Although we       do have a pool going to see how long it takes that guy to cry.
-<episode>Friends - 915 - The One With The Mugging
+<episode>0915 : The One With The Mugging
 chandler: Guys, guys, I've got great news! Guess what…
 joey: Uh, ah, Monica's pregnant?!
 monica: Really?   Let's get past the moment.
@@ -51436,7 +51436,8 @@ monica: … that she was the huge guy that mugged you? Yah.
 ross: I see. You didn't happen to tell…
 monica: … everybody we know? Yeah.
 ross: Great. Thanks!
-<episode>916 - The One With The Boob Job
+<episode>0916 : The One with the boob job
+
 chandler: Did you see our bank statement? Can this be right?
 monica: I know...God. I haven't seen my savings take a hit like this since   I was a kid and they came up with double-stuffed Oreos. What happened to all   our money?
 chandler: I'm not sure what they did, but I'm inclined to blame Enron.
@@ -51677,7 +51678,7 @@ mike: Ok... so...  Goodbye. Chandler/Joey/Rachel/Monica: Bye bye Mike!/Cya mike!
 rachel: I'm so sorry Pheebs.
 monica: We're all sorry...
 chandler: Ah, look on the bright side, I mean you won't have to live with   this ugly chair! That was here already huh? I love you.   Ending Credits
-<episode>Friends 917 - The One With The Memorial Service
+<episode>0917 : The One with the memorial service
 aired: 3/13/2003 Teleplay by: Brian Buckner & Sebastian Jones  Story by: Robert Carlock Directed by: Gary Halvorson Transcribed by: Eleonora, Pheeboh and Vanessa
 chandler: Hey! Ready to go?
 ross: Oh yeah, let me just finish this.
@@ -51936,7 +51937,7 @@ kori: I thought so many times about calling him and asking him out. I guess I re
 ross: But you didn't! I'm still alive!! Kori, I know this is a big surprise for you. It's a long story but the things you just said really made my day! I mean, the fact that you are here means more to me than if this room were filled with people!
 kori: You sick freak, who does that? I can't believe I had a crush on you!
 ross: Did you hear that? Kori Weston had a crush on me!! Ending Credits
-<episode>Friends - 918 - The one with the lottery
+<episode>0918 : The One with the lottery
 teleplay: Sherry Bilsing - Graham & Ellen Plummer
 story: Brian Buckner & Sebastian Jones Directed by: Gary Halvorson Transcribed by: Eleonora, Pheeboh, Roni & Vanessa
 joey: Monica, hey, can I borrow the Porsche?
@@ -52219,7 +52220,7 @@ ross: I guess if everybody else is... Closing credits
 joey: Hey guys, so I just called the Powerball hotline, can you believe it? Nobody won.
 phoebe: I beg to differ  .
 gunther: Maybe nobody won the jackpot, but there was this guy in here earlier, and he found the ticket on the street, right outside, and won $10,000  .
-<episode>Friends 919 - The one with Rachel's dream
+<episode>0919 : The One with rachel's dream
 teleplay: Mark Kunerth
 story: Dana Klein Directed by: Terry Hughes Transcribed by: Eleonora, Pheeboh, Sebastiano & Vanessa
 joey: God, you're beautiful...why are we fighting this?You know you want it to happen as much as I do.  Joey: I want you.I need you.Let me make love to you.
@@ -52445,7 +52446,7 @@ joey: Oh! ok, yeah, I think I can do that. Yeah ok, there's this party scene com
 rachel: Joey, you never..you never talked about that before...
 joey: Well.. hey, you know what else I could use? There's a scene where Drake sneaks into Olivia's bedroom, and she doesn't know he's there - which never happened with us! And he knows he shouldn't be there, but he just wants to look at her... you know?   but it was worth it just to be there looking at you.   Closing credits
 chandler: I got you something from Vermont!
-<episode>Friends - 920 - The one with the soap opera party
+<episode>0920 : The One with the soap opera party
 teleplay: Andrew Reich & Ted Cohen  Story: Shana Goldberg-Meehan  Directed by: Sheldon Epps  Transcribed by: Eleonora, Pheeboh, Sebastiano & Vanessa
 joey: Hey, you guys, what are you doing tomorrow night?
 chandler: Well, let me see... I-I believe I'm... yes, falling asleep in front of the TV.
@@ -52711,7 +52712,7 @@ rachel: No.  Ross: I'm smarter than him! Closing credits
 phoebe: Hey, thank you so much for these tickets, Chandler.
 chandler: Oh well, this was a really important experience for me, and I wanted to share it with you.
 monica: Oh, you're so wonderful. Bitter woman: Why don't you like me! Chapter one: my first period.
-<episode>Friends - The one with the fertility test
+<episode>0921 : The One with the fertility test
 teleplay: Robert Carlock   Story: Scott Silveri   Directed by: Gary Halvorson   Transcribed by: Eleonora, Pheeboh, Sebastiano & Vanessa
 monica: It's so weird, how did Joey end up kissing Charlie last night?    I thought you'd end up kissing Charlie.
 ross: Hey, I thought I'd end up kissing Charlie too ok? But SURPRISE!
@@ -52987,7 +52988,7 @@ receptionist: Good morning Phoebe.
 phoebe: Good morning receptionist.
 receptionist: Here's your schedule for the day. Your first client is    in room No. 1.
 phoebe: Rachel Green?   Son of a bitch, she came back?
-<episode>Friends - 922 - The one with the donor
+<episode>0922 : The One with the donor
 charlie: Oh! That feels sooo good!
 rachel: Oh, lucky me! Coffee and a live sex show!
 charlie: I'm sorry, what?
@@ -53280,7 +53281,7 @@ zack: No you did.
 chandler: My wife and I have some boundary issues, you know, sometimes we ask inappropriate questions. We're working on it.
 jeanette: Here are the boards for Friday's pitch  .
 zack: Oh, thank you.
-<episode>Friends - 923-924 - The one in Barbados
+<episode>0924 : The One in barbados
 joey: Hey! I'm all packed and ready to go!
 ross: Oh, that's right!   Daddy and uncle Joey are going on a trip today. We're going to a conference in Barbados, right?
 joey: Mmh-mmh.
@@ -53868,7 +53869,7 @@ ross: I'm sorry... we... we can't.
 charlie: All right, all right.
 ross: I mean, you just went out with my best friend, and I just think it'd be a really really bad idea.
 rachel: What?   End
-<episode>1001 - The One After Joey And Rachel Kiss
+<episode>1001 : The One after joey and rachel kiss
 monica: Oh, the way you crushed Mike at ping pong was such   a turn-on.You wanna...?
 chandler: You know, I'd love to, but I'm a little tired.
 monica: I'll put a pillowcase over my head.
@@ -54210,7 +54211,7 @@ chandler: I think you know.
 monica: Really? I don't really feel like it.
 chandler: This is what I want to do.
 monica: Okay, I just don't get why you like it so much.
-<episode>1002 - The One Where Ross Is Fine
+<episode>1002 : The One where ross is fine
 joey: Okay, Ross, I realise that you didn't expect to walk in and see  that, but.. Let me explain, okay?
 rachel: We weren't doing anything!
 joey: Rach, he just saw us.
@@ -54432,7 +54433,7 @@ monica: What?
 phoebe: Still, he had to find out sometime.
 chandler: Yeah, but how would you like it if someone told the triplets   that you gave birth to them?
 chandler: I'm gonna go tell Emma she was an accident.
-<episode>Friends - 1003 - The One With Ross' Tan
+<episode>1003 : The One with ross' tan
 chandler: So, you and Rachel tonight, huh?
 joey: Yeah. It's actually our first official date
 chandler: Wow! So tonight may be the night! You're nervous?
@@ -54690,7 +54691,7 @@ ross: Really? Did you count Mississipily?
 ross: Dude, you're not tanned.
 chandler: No, I just had to get a picture of this.
 chandler: I see you later!    end
-<episode>Friends - 1004 - The One With The Cake
+<episode>1004 : The One with the cake
 monica: Hey guys! Ross, Rachel and Chandler: Hey!
 chandler: Honey, I got us that room at the Woodford Inn this weekend.
 monica: That place in Vermont? You can  take   a hint!
@@ -54958,7 +54959,7 @@ rachel: Yeah.
 ross: A-a-and... record.
 rachel: Okay.   Hi Emma. Well,    your first birthday is over, and it was really...
 phoebe: Go, go, go Alan! Run you, hairy bastard!
-<episode>Friends - 10.05 The One Where Rachel's Sister Baby-sits
+<episode>1005 : The One where rachel's sister baby-sits
 rachel: You know, I'm thinking about letting Emma have her    first cookie.
 joey: Her first cookie? She has cookies all the time!
 rachel: I've never given her a cookie. Have you?
@@ -55291,7 +55292,7 @@ rachel: So how is the uhm... baby styling business going?
 amy: Not that great. It's almost if people don't want to hear that their babies    are ugly.
 rachel: That's shocking!
 amy: Oh! It's Ross... Hey Ross!   Hello-oo Ross!   He's rude! THE END
-<episode>Friends - 10.06 - The One With Ross' Grant
+<episode>1006 : The One with ross' grant
 phoebe: Hey...
 all: Hey!
 rachel: Hi!
@@ -55587,7 +55588,7 @@ joey: Gladys?
 rachel: Ha ha ha, third time this week. Man, this does not    get old.
 joey: You're mean!
 rachel: Oh, don't be such a baby!
-<episode>Friends - 10.07 The One With The Home Study
+<episode>1007 : The One with the home study
 ross: Hey you guys!
 phoebe: Hey!
 ross: Hey, what are you doing?
@@ -55842,7 +55843,7 @@ ross: There you go! Good for you! And you know what, I'm actually getting used  
 rachel: That's because he's on your neck.
 ross: Well...   Whaa... aaah... aaahhh...
 rachel: ROSS!   end
-<episode>Friends - 10.08 The One With The Late Thanksgiving
+<episode>1008 : The One with the late thanksgiving 
 monica: Hey guys!
 rachel: Hi!
 phoebe: Hey!
@@ -56169,7 +56170,7 @@ joey: Oh, I know how you feel...
 rachel: Really?
 joey: Sure. I went through the exact same thing with Alicia Mae Emory... The waiting, the wandering... Then one day... I get that call from Toys "R" Us... She was in stock!
 chandler: That is the exact same thing. THE END
-<episode>Friends - 10.09 - The One With The Birth Mother
+<episode>1009 : The One with the birth mother
 chandler: Hi!
 ross: Hey!
 monica: Hey!
@@ -56429,7 +56430,7 @@ joey: Ooh... Not so good.
 ross: Well, looks like it's just the two of us tonight, huh old buddy?
 joey: Yeah, and you know what? We could do a lot worse.
 joey: JOEY DOESN'T SHARE FOOD!   end
-<episode>Friends - 10.10 - The One Where Chandler Gets Caught
+<episode>1010 : The One where chandler gets caught
 monica: Mmh... this cake is amazing!
 rachel: My God, get a room!
 monica: I would get a room with this cake. I think I could show this cake a good time!
@@ -56714,7 +56715,7 @@ ross: Seriously you guys, what's going on? What are these for?
 chandler: Well, I didn't know how to tell you before, but... We got the house.
 monica: Enjoy!
 joey: What did they say? THE END
-<episode>Friends - 10.11 - The One Where The Stripper Cries
+<episode>1011 : The One where the stripper cries 
 joey: Hey guys!
 monica: Hey, let me tell them!
 joey: Sure.
@@ -57036,7 +57037,7 @@ monica: You were my Midnight Mystery Kisser?
 ross: You were my first kiss with Rachel?
 monica: You were my first kiss ever?
 chandler: What did I marry into?
-<episode>Friends - 10.12 - The One With Phoebe's Wedding
+<episode>1012 : The One with phoebe's wedding 
 phoebe: Oh, hey Joey.
 joey: Uh, hey.
 phoebe: Listen, I need to ask you something. Ok, you know how my step dad's in prison.
@@ -57342,7 +57343,7 @@ joey: It was, yeah. I kind of don't want it to end. Hey, you wanna come in for a
 chandler: I'd love to, but it's 2300 hours and I'm about to have the most organized sex anyone's ever had.
 joey: Nice. Oh hey, what about Ross?
 chandler: I don't know. Maybe he hooked up with that hot girl he was talking to.
-<episode>Friends - 10.13 - The One Where Joey Speaks French
+<episode>1013 : The One where joey speaks french 
 phoebe: Hi
 all: Hey! Hi!
 rachel: How was the honeymoon? Phoebe; Oh, incredible! Oh! Champagne, candle-lit dinners, moonlight walks on the beach, it was sooo ro-man-tic!
@@ -57649,7 +57650,7 @@ joey: That I can do.
 phoebe: Come on! You can drink a gallon of milk in 10 seconds?
 joey: All right, watch me!   Okay, you time me. Ready?
 phoebe: Ready... GO!
-<episode>Friends - 10.14 - The One With Princess Consuela
+<episode>1014 : The One with princess consuela
 mike: Thank you guys for having us over.
 phoebe: Oh! Yeah, this is fun, couples night.
 chandler: Yeah, I don't know why we hang out with married couples more often.
@@ -57950,7 +57951,7 @@ rachel: The job is in Paris.     COMMERCIAL BREAK
 joey: I mean, this soap opera is a great gig, but... am I missing opportunities? You know, I've always thought of myself as a serious actor. I mean, should I be trying to do more independent movies?
 mackenzie: I don't know... You know what? I'm gonna put you on with my bear. Hold on.
 joey: Hey bear, I need some career advice. THE END
-<episode>Friends - 10.15- The One Where Estelle Dies
+<episode>1015 : The One where estelle dies
 jennifer: Previously on Friends...
 chandler: How did the job stuff go?
 rachel: He offered me one.
@@ -58165,7 +58166,7 @@ ross: Yeah, yeah, oh!
 rachel: Oh! Oh, I'm so happy.
 ross: Then I'm happy too.   COMMERCIAL BREAK
 joey: Thank you all for coming. We're here today to pay respects    to a wonderful agent and a beautiful woman...   That is    entertaining. Al Zebooker everybody.   THE END
-<episode>Friends - 10.16 - The One With Rachel's Going Away Party
+<episode>1016 : The One with rachel's going away party 
 joey: All right, all right, all right, let's play one more time, ok? And remember, if I win you do not move to Paris.
 rachel: Ok! Can't believe I'm risking  this again, but you're on! All right Joe, you remember the rules! Heads I win, tails you lose.
 joey: Just flip! Rachel  : Ha, tails!
@@ -58417,7 +58418,7 @@ joey: A little more, a little more.   A little more... All right. Okay, all righ
 phoebe: All right, ready?
 joey: Yeah. All right, now give me your best shot.
 phoebe: All right, here it goes...
-<episode>Friends - 10.17-10.18 - The Last One
+<episode>1018 : The Last One
 monica: Erica, are you okay?
 erica: Yeah, you know, maybe I ate too much. I keep getting these    stomach-aches. They come and go like every few minutes.
 monica: Oh my God!
